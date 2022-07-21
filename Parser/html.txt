@@ -1,0 +1,1218 @@
+<!DOCTYPE html>
+<html>
+<head>
+	
+	<!-- Google Tag Manager -->
+				<!-- End Google Tag Manager -->
+
+		<!-- Google Tag Manager -->
+				<!-- End Google Tag Manager -->
+	
+	<link rel="shortcut icon" href="/favicon.svg" />
+	<meta name="msapplication-TileColor" content="#ffffff">
+	<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+	<meta name="theme-color" content="#ffffff">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"/>
+		<meta name="description" content="World’s Largest Selection of sheet music, music scores, and online sheet music for all instruments and levels! Free download sheet music notes instantly to any device." />
+<script type="text/javascript" data-skip-moving="true">(function(w, d, n) {var cl = "bx-core";var ht = d.documentElement;var htc = ht ? ht.className : undefined;if (htc === undefined || htc.indexOf(cl) !== -1){return;}var ua = n.userAgent;if (/(iPad;)|(iPhone;)/i.test(ua)){cl += " bx-ios";}else if (/Android/i.test(ua)){cl += " bx-android";}cl += (/(ipad|iphone|android|mobile|touch)/i.test(ua) ? " bx-touch" : " bx-no-touch");cl += w.devicePixelRatio && w.devicePixelRatio >= 2? " bx-retina": " bx-no-retina";var ieVersion = -1;if (/AppleWebKit/.test(ua)){cl += " bx-chrome";}else if ((ieVersion = getIeVersion()) > 0){cl += " bx-ie bx-ie" + ieVersion;if (ieVersion > 7 && ieVersion < 10 && !isDoctype()){cl += " bx-quirks";}}else if (/Opera/.test(ua)){cl += " bx-opera";}else if (/Gecko/.test(ua)){cl += " bx-firefox";}if (/Macintosh/i.test(ua)){cl += " bx-mac";}ht.className = htc ? htc + " " + cl : cl;function isDoctype(){if (d.compatMode){return d.compatMode == "CSS1Compat";}return d.documentElement && d.documentElement.clientHeight;}function getIeVersion(){if (/Opera/i.test(ua) || /Webkit/i.test(ua) || /Firefox/i.test(ua) || /Chrome/i.test(ua)){return -1;}var rv = -1;if (!!(w.MSStream) && !(w.ActiveXObject) && ("ActiveXObject" in w)){rv = 11;}else if (!!d.documentMode && d.documentMode >= 10){rv = 10;}else if (!!d.documentMode && d.documentMode >= 9){rv = 9;}else if (d.attachEvent && !/Opera/.test(ua)){rv = 8;}if (rv == -1 || rv == 8){var re;if (n.appName == "Microsoft Internet Explorer"){re = new RegExp("MSIE ([0-9]+[\.0-9]*)");if (re.exec(ua) != null){rv = parseFloat(RegExp.$1);}}else if (n.appName == "Netscape"){rv = 11;re = new RegExp("Trident/.*rv:([0-9]+[\.0-9]*)");if (re.exec(ua) != null){rv = parseFloat(RegExp.$1);}}}return rv;}})(window, document, navigator);</script>
+
+
+<link href="/bitrix/js/ui/fonts/opensans/ui.font.opensans.min.css?16457648562409" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/js/main/popup/dist/main.popup.bundle.min.css?164576485423420" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s1/notesbox/page_7df149e141adab09c7ddc3915b128be8/page_7df149e141adab09c7ddc3915b128be8_v1.css?1646299019354" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s1/notesbox/template_9f3d0bdb09803fe28707ed1327eb28b8/template_9f3d0bdb09803fe28707ed1327eb28b8_v1.css?164951220854274" type="text/css"  data-template-style="true" rel="stylesheet" />
+
+
+
+
+
+
+
+	<title>Notes Box — The world largest free sheet music catalog</title>
+
+
+</head>
+<body>
+	<!-- Google Tag Manager (noscript) -->
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WRJ54DJ"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<!-- End Google Tag Manager (noscript) -->
+
+		<!-- Google Tag Manager (noscript) -->
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N7J9QH8"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<!-- End Google Tag Manager (noscript) -->
+<div id="panel"></div>
+<!--'start_frame_cache_area'--><!--'end_frame_cache_area'--><div class="header-wrap"><div class="header-fix">
+<header class="header">
+	<div class="wrapper">
+		<a class="header-logo-link" href="/">
+<!--            <svg class="header-logo" width="153" height="24"><use xlink:href="/img/sprite.svg#logo"/></svg>-->
+            <span>notesbox</span>
+        </a>
+		<form class="header-search" method="GET" action="/search/">
+			<input id="search_input" class="nb_header-search-input" name="search" type="text" placeholder="Search">
+			<input name="s" type="submit" value="Search">
+			<div class="header-search__content" id="search_content"></div>
+		</form>
+				<div class="header-menu mh">
+			<div class="popup-menu cat-menu">
+				 <div class="popup-menu__close"></div>
+				
+<div class="notes-cat-list">
+<a class="notes-cat-list__item" id="bx_1847241719_76" href="/notes/advertisement/">
+<div class="notes-cat-list__item-cover">
+		<img src="/upload/uf/d3a/d3a32008018b0d3a4ccf5b18c650ba02.svg" class="notes-cat-list__item-cover-src"/>
+		</div>
+<div class="notes-cat-list__item-info">
+<div class="notes-cat-list__item-info-title" ru="Реклама">Advertisement</div>
+<div class="notes-cat-list__item-info-count">9 <span class="notes-cat-list__item-info-count-span">pieces</span></div>
+</div>
+</a>
+<a class="notes-cat-list__item" id="bx_1847241719_67" href="/notes/anime/">
+<div class="notes-cat-list__item-cover">
+		<img src="/upload/uf/01e/01ec457a3cc832ff3da3ca1b6b951e60.svg" class="notes-cat-list__item-cover-src"/>
+		</div>
+<div class="notes-cat-list__item-info">
+<div class="notes-cat-list__item-info-title" ru="Анимэ">Anime</div>
+<div class="notes-cat-list__item-info-count">871 <span class="notes-cat-list__item-info-count-span">pieces</span></div>
+</div>
+</a>
+<a class="notes-cat-list__item" id="bx_1847241719_73" href="/notes/cartoons/">
+<div class="notes-cat-list__item-cover">
+		<img src="/upload/uf/c9f/c9f5df4946ab0a47e69e7b6e455ebe70.svg" class="notes-cat-list__item-cover-src"/>
+		</div>
+<div class="notes-cat-list__item-info">
+<div class="notes-cat-list__item-info-title" ru="Мультфильмы">Cartoons</div>
+<div class="notes-cat-list__item-info-count">394 <span class="notes-cat-list__item-info-count-span">pieces</span></div>
+</div>
+</a>
+<a class="notes-cat-list__item" id="bx_1847241719_71" href="/notes/classical-music/">
+<div class="notes-cat-list__item-cover">
+		<img src="/upload/uf/c57/c57c1dc8ee721c7d2ffc3c5190712546.svg" class="notes-cat-list__item-cover-src"/>
+		</div>
+<div class="notes-cat-list__item-info">
+<div class="notes-cat-list__item-info-title" ru="Классческая">Classical music</div>
+<div class="notes-cat-list__item-info-count">1889 <span class="notes-cat-list__item-info-count-span">pieces</span></div>
+</div>
+</a>
+<a class="notes-cat-list__item" id="bx_1847241719_127" href="/notes/club-music/">
+<div class="notes-cat-list__item-cover">
+		<img src="/upload/uf/2ae/2ae6c4ce016e61967ca631f99bb320c6.svg" class="notes-cat-list__item-cover-src"/>
+		</div>
+<div class="notes-cat-list__item-info">
+<div class="notes-cat-list__item-info-title" ru="Клубная">Club music</div>
+<div class="notes-cat-list__item-info-count">4 <span class="notes-cat-list__item-info-count-span">pieces</span></div>
+</div>
+</a>
+<a class="notes-cat-list__item" id="bx_1847241719_55" href="/notes/folk-music/">
+<div class="notes-cat-list__item-cover">
+		<img src="/upload/uf/e49/e49c0424abc8994c15251053202c51a3.svg" class="notes-cat-list__item-cover-src"/>
+		</div>
+<div class="notes-cat-list__item-info">
+<div class="notes-cat-list__item-info-title" ru="Народная">Folk music</div>
+<div class="notes-cat-list__item-info-count">6 <span class="notes-cat-list__item-info-count-span">pieces</span></div>
+</div>
+</a>
+<a class="notes-cat-list__item" id="bx_1847241719_68" href="/notes/games-ost/">
+<div class="notes-cat-list__item-cover">
+		<img src="/upload/uf/5e9/5e9e42f52f2097f500dad1bb475f1edc.svg" class="notes-cat-list__item-cover-src"/>
+		</div>
+<div class="notes-cat-list__item-info">
+<div class="notes-cat-list__item-info-title" ru="Игры">Games</div>
+<div class="notes-cat-list__item-info-count">596 <span class="notes-cat-list__item-info-count-span">pieces</span></div>
+</div>
+</a>
+<a class="notes-cat-list__item" id="bx_1847241719_69" href="/notes/jazz-and-blues/">
+<div class="notes-cat-list__item-cover">
+		<img src="/upload/uf/6bd/6bd51c28400bca7271815d2ac091c509.svg" class="notes-cat-list__item-cover-src"/>
+		</div>
+<div class="notes-cat-list__item-info">
+<div class="notes-cat-list__item-info-title" ru="Джаз и блюз">Jazz and Blues</div>
+<div class="notes-cat-list__item-info-count">215 <span class="notes-cat-list__item-info-count-span">pieces</span></div>
+</div>
+</a>
+<a class="notes-cat-list__item" id="bx_1847241719_77" href="/notes/military-music/">
+<div class="notes-cat-list__item-cover">
+		<img src="/upload/uf/83b/83b2ee639cd20eb5b4c8e34f335d0a5d.svg" class="notes-cat-list__item-cover-src"/>
+		</div>
+<div class="notes-cat-list__item-info">
+<div class="notes-cat-list__item-info-title" ru="Военная">Military music</div>
+<div class="notes-cat-list__item-info-count">6 <span class="notes-cat-list__item-info-count-span">pieces</span></div>
+</div>
+</a>
+<a class="notes-cat-list__item" id="bx_1847241719_70" href="/notes/movies/">
+<div class="notes-cat-list__item-cover">
+		<img src="/upload/uf/b44/b444e44e1179cf1c1e212f103ed18a5d.svg" class="notes-cat-list__item-cover-src"/>
+		</div>
+<div class="notes-cat-list__item-info">
+<div class="notes-cat-list__item-info-title" ru="Фильмы">Movies</div>
+<div class="notes-cat-list__item-info-count">1268 <span class="notes-cat-list__item-info-count-span">pieces</span></div>
+</div>
+</a>
+<a class="notes-cat-list__item" id="bx_1847241719_74" href="/notes/musicals/">
+<div class="notes-cat-list__item-cover">
+		<img src="/upload/uf/731/731b187634feb51b6588520e02862217.svg" class="notes-cat-list__item-cover-src"/>
+		</div>
+<div class="notes-cat-list__item-info">
+<div class="notes-cat-list__item-info-title" ru="Мюзиклы">Musicals</div>
+<div class="notes-cat-list__item-info-count">175 <span class="notes-cat-list__item-info-count-span">pieces</span></div>
+</div>
+</a>
+<a class="notes-cat-list__item" id="bx_1847241719_72" href="/notes/neoclassics/">
+<div class="notes-cat-list__item-cover">
+		<img src="/upload/uf/942/94285cd0ea7161bb9d5a6d368113a9cc.svg" class="notes-cat-list__item-cover-src"/>
+		</div>
+<div class="notes-cat-list__item-info">
+<div class="notes-cat-list__item-info-title" ru="Неоклассика">Neoclassics</div>
+<div class="notes-cat-list__item-info-count">743 <span class="notes-cat-list__item-info-count-span">pieces</span></div>
+</div>
+</a>
+<a class="notes-cat-list__item" id="bx_1847241719_75" href="/notes/new-year-s-music/">
+<div class="notes-cat-list__item-cover">
+		<img src="/upload/uf/b93/b93bcd4a354bf87a8eec390a459b1116.svg" class="notes-cat-list__item-cover-src"/>
+		</div>
+<div class="notes-cat-list__item-info">
+<div class="notes-cat-list__item-info-title" ru="Новогодняя">New Year's music</div>
+<div class="notes-cat-list__item-info-count">51 <span class="notes-cat-list__item-info-count-span">pieces</span></div>
+</div>
+</a>
+<a class="notes-cat-list__item" id="bx_1847241719_141" href="/notes/rock/">
+<div class="notes-cat-list__item-cover">
+		<img src="/upload/uf/9f0/1tbyaj5klnmovuiakf4wnarvqd2wti6j/rrrrock 165px.svg" class="notes-cat-list__item-cover-src"/>
+		</div>
+<div class="notes-cat-list__item-info">
+<div class="notes-cat-list__item-info-title" ru="Рок">Rock</div>
+<div class="notes-cat-list__item-info-count">248 <span class="notes-cat-list__item-info-count-span">pieces</span></div>
+</div>
+</a>
+<a class="notes-cat-list__item" id="bx_1847241719_136" href="/notes/tv-series/">
+<div class="notes-cat-list__item-cover">
+		<img src="/upload/uf/1a3/1a3618945e00f205685b039adcc00661.svg" class="notes-cat-list__item-cover-src"/>
+		</div>
+<div class="notes-cat-list__item-info">
+<div class="notes-cat-list__item-info-title" ru="Сериалы">TV series</div>
+<div class="notes-cat-list__item-info-count">214 <span class="notes-cat-list__item-info-count-span">pieces</span></div>
+</div>
+</a>
+<a class="notes-cat-list__item" id="bx_1847241719_137" href="/notes/tv-shows/">
+<div class="notes-cat-list__item-cover">
+		<img src="/upload/uf/af2/af2dfcb492618ec46d9a00a73158f4a6.svg" class="notes-cat-list__item-cover-src"/>
+		</div>
+<div class="notes-cat-list__item-info">
+<div class="notes-cat-list__item-info-title" ru="Телепередачи">TV shows</div>
+<div class="notes-cat-list__item-info-count">25 <span class="notes-cat-list__item-info-count-span">pieces</span></div>
+</div>
+</a>
+</div>			</div>
+			<a href="#" class="header-menu-item cat-show mh header-menu-item_1">Categories</a>
+			<a href="/notes/" class="header-menu-item dh header-menu-item_1">Categories</a>
+			<!--<a href="/musicians/" class="header-menu-item header-menu-item_2">Authors</a>-->
+			<!-- <div data="pu-order" class="pu header-menu-item header-menu-item_3">Order</div> -->
+			<a href="/donate/" class="th header-menu-item header-menu-item_4">Donate</a>
+		</div>
+		
+		<div class="header-menu-2 mh">
+
+			
+			<a data="pu-auth" class="header-menu__icon pu" href="#">
+				<svg class="header-menu__icon-src" width="28" height="26"><use xlink:href="/img/sprite.svg#fav"/></svg>
+			</a>		
+						<a data="pu-auth" class="header-menu__icon pu" href="#">
+				<svg class="header-menu__icon-src" width="30" height="26">
+					<use xlink:href="/img/sprite.svg#lk"/>
+				</svg>
+				<!-- <svg xmlns="http://www.w3.org/2000/svg" width="30" height="31" viewBox="1 1 14 14" version="1.1" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1">
+                    <circle cx="8" cy="6" r="3.25"></circle>
+                    <path d="m2.75 14.25c0-2.5 2-5 5.25-5s5.25 2.5 5.25 5"></path>
+                </svg> -->
+			</a>
+					</div>
+		<div class="header-mm">
+			<div class="header-search-icon dh ms">
+				<!-- <svg class="header-search-icon-src" width="30" height="25">
+					<use xlink:href="/img/sprite.svg#si"/>
+				</svg>-->
+				<svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M2 11C2 6.02944 6.02944 2 11 2C15.9706 2 20 6.02944 20 11C20 15.9706 15.9706 20 11 20C6.02944 20 2 15.9706 2 11ZM11 0C4.92487 0 0 4.92487 0 11C0 17.0751 4.92487 22 11 22C13.6775 22 16.1316 21.0434 18.0391 19.4533L18.2929 19.7071L21.2929 22.7071L24.2929 25.7071C24.6834 26.0976 25.3166 26.0976 25.7071 25.7071C26.0976 25.3166 26.0976 24.6834 25.7071 24.2929L22.7071 21.2929L19.7071 18.2929L19.4533 18.0391C21.0434 16.1316 22 13.6775 22 11C22 4.92487 17.0751 0 11 0Z" fill="#333333"/>
+				</svg>
+                <!-- <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 15 15" fill="none" stroke-width="1">
+                    <path d="M7.5 12.25C10.1234 12.25 12.25 10.1234 12.25 7.5C12.25 4.87665 10.1234 2.75 7.5 2.75C4.87665 2.75 2.75 4.87665 2.75 7.5C2.75 10.1234 4.87665 12.25 7.5 12.25Z" stroke="black" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+                    <path d="M11.25 11.25L14.25 14.25" stroke="black" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg> -->
+            </div>
+						<a data="pu-auth" class="header-menu__icon pu dh ms" href="#">
+				<svg class="header-menu__icon-src" width="30" height="26">
+					<use xlink:href="/img/sprite.svg#lk"/>
+				</svg>
+                <!-- <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 15 15" version="1.1" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1">
+                    <circle cx="8" cy="6" r="3.25"/>
+                    <path d="m2.75 14.25c0-2.5 2-5 5.25-5s5.25 2.5 5.25 5"/>
+                </svg> -->
+            </a>
+						<div class="header-mm-icon">
+				<div class="header-mm-icon-item"></div>
+				<div class="header-mm-icon-item"></div>
+				<div class="header-mm-icon-item"></div>
+			</div>
+			<div class="popup-menu">
+				 <div class="popup-menu__close"></div>
+				<a href="/notes/" class="popup-menu__item dh ms header-menu-item_1">Categories</a>
+				<!--<a href="/musicians/" class="popup-menu__item dh ms">Authors</a>-->
+				<!-- <div data="pu-order" class="pu popup-menu__item dh ms header-menu-item_3">Order</div> -->
+                <a href="/donate/" class="dh ts popup-menu__item header-menu-item_4">Donate</a>
+
+									<a data="pu-auth" href="#" class="dh ms popup-menu__item header-menu-item_4 pu">Favorite</a>
+				                
+				<a class="popup-menu__item header-menu-item_5" href="/get-in-touch/">Contacts</a>
+				<!--<a class="popup-menu__item" href="/">News</a>-->
+				<a class="popup-menu__item header-menu-item_6" href="/copyright-holders/">Copyright</a>
+
+							</div>
+		</div>
+	</div>
+</header>
+<div class="header__alpha">
+	<div class="wrapper header__alpha_en">
+		<div class="header__alpha-block">
+			<a class="header__alpha-item" href="/musicians/0-9/">0-9</a>
+		</div>
+		<div class="header__alpha-block">
+						<a class="header__alpha-item" href="/musicians/a/">A</a>
+						<a class="header__alpha-item" href="/musicians/b/">B</a>
+						<a class="header__alpha-item" href="/musicians/c/">C</a>
+						<a class="header__alpha-item" href="/musicians/d-d/">D</a>
+						<a class="header__alpha-item" href="/musicians/e-e-e/">E</a>
+						<a class="header__alpha-item" href="/musicians/f-f/">F</a>
+						<a class="header__alpha-item" href="/musicians/g-g/">G</a>
+						<a class="header__alpha-item" href="/musicians/h-h/">H</a>
+						<a class="header__alpha-item" href="/musicians/i-i/">I</a>
+						<a class="header__alpha-item" href="/musicians/j/">J</a>
+						<a class="header__alpha-item" href="/musicians/k-k/">K</a>
+						<a class="header__alpha-item" href="/musicians/l-l/">L</a>
+						<a class="header__alpha-item" href="/musicians/m-m/">M</a>
+						<a class="header__alpha-item" href="/musicians/n-n/">N</a>
+						<a class="header__alpha-item" href="/musicians/o-o/">O</a>
+						<a class="header__alpha-item" href="/musicians/p-p/">P</a>
+						<a class="header__alpha-item" href="/musicians/q/">Q</a>
+						<a class="header__alpha-item" href="/musicians/r-r/">R</a>
+						<a class="header__alpha-item" href="/musicians/s-s/">S</a>
+						<a class="header__alpha-item" href="/musicians/t-t/">T</a>
+						<a class="header__alpha-item" href="/musicians/u-u/">U</a>
+						<a class="header__alpha-item" href="/musicians/v/">V</a>
+						<a class="header__alpha-item" href="/musicians/w/">W</a>
+						<a class="header__alpha-item" href="/musicians/x/">X</a>
+						<a class="header__alpha-item" href="/musicians/y-y/">Y</a>
+						<a class="header__alpha-item" href="/musicians/z-z/">Z</a>
+					</div>
+			</div>
+</div>
+</div></div><div class="wrapper">
+<div class="gads gads--mt0">
+
+<!-- NB top -->
+<ins class="adsbygoogle"
+	 style="display:block"
+	 data-ad-client="ca-pub-7422899357308567"
+	 data-ad-slot="1971292377"
+	 data-ad-format="auto"
+	 data-full-width-responsive="true"></ins>
+</div>
+
+<div class="mp">
+    <div class="mp__content">
+        <h2 class="mp__content-title mp-pop">Popular</h2>
+		<div class="notes-detail__tabs dh msf">
+			<div class="notes-detail__tabs-item notes-detail__tabs-item_active mp-pop" data="popular">Popular</div>
+			<div class="notes-detail__tabs-item mp-new" data="new">New</div>
+		</div>
+		<div class="notes-detail__body">
+		<div class="notes-detail__body-item notes-detail__body-item_active popular">
+        <div class="songs">
+
+		<div class="songs__item" id="bx_3218110189_11685">
+						<a class="songs__item-cover" href="/notes/whitney-houston-i-have-nothing/"><img class="songs__item-cover-src" src="/upload/resize_cache/iblock/ab4/68_68_240cd750bba9870f18aada2478b24840a/ab4ca32c3387c3f675875d3e4543e7b3.jpg" alt="I have nothing" srcset="/upload/resize_cache/iblock/ab4/136_136_240cd750bba9870f18aada2478b24840a/ab4ca32c3387c3f675875d3e4543e7b3.jpg 2x"/></a>
+				<div class="songs__item-cover-info">
+			<a class="songs__item-cover-info-title" href="/notes/whitney-houston-i-have-nothing/">I have nothing</a>
+						<div class="songs__item-cover-info-block">
+							<a href="/musicians/whitney-houston/">Whitney Houston</a>						</div>
+					<div class="songs__item-cover-info-block">
+							<a href="/albums/iz-filma-the-bodyguard-telokhranitel/">The Bodyguard</a>						</div>
+				</div>
+	</div>
+		<div class="songs__item" id="bx_3218110189_6408">
+						<a class="songs__item-cover" href="/notes/joe-hisaishi-dzho-xiasisi-howls-moving-castle-koi-da-ne/"><img class="songs__item-cover-src" src="/upload/resize_cache/iblock/28d/68_68_240cd750bba9870f18aada2478b24840a/28ddb0f5483697e5b0455097626c9115.png" alt="Koi da ne" srcset="/upload/resize_cache/iblock/28d/136_136_240cd750bba9870f18aada2478b24840a/28ddb0f5483697e5b0455097626c9115.png 2x"/></a>
+				<div class="songs__item-cover-info">
+			<a class="songs__item-cover-info-title" href="/notes/joe-hisaishi-dzho-xiasisi-howls-moving-castle-koi-da-ne/">Koi da ne</a>
+						<div class="songs__item-cover-info-block">
+							<a href="/musicians/joe-hisaishi/">Joe Hisaishi</a>						</div>
+					<div class="songs__item-cover-info-block">
+							<a href="/albums/iz-anime-howl-s-moving-castle-khodyachiy-zamok/">Howl's Moving Castle</a>						</div>
+				</div>
+	</div>
+		<div class="songs__item" id="bx_3218110189_11658">
+						<a class="songs__item-cover" href="/notes/duke-ellington-jazz-piano-kniga-not/"><img class="songs__item-cover-src" src="/upload/resize_cache/iblock/dce/68_68_240cd750bba9870f18aada2478b24840a/dce3b980a156007674fe0ab53198ebba.png" alt="Jazz Piano" srcset="/upload/resize_cache/iblock/dce/136_136_240cd750bba9870f18aada2478b24840a/dce3b980a156007674fe0ab53198ebba.png 2x"/></a>
+				<div class="songs__item-cover-info">
+			<a class="songs__item-cover-info-title" href="/notes/duke-ellington-jazz-piano-kniga-not/">Jazz Piano</a>
+						<div class="songs__item-cover-info-block">
+							<a href="/musicians/duke-ellington/">Duke Ellington</a>						</div>
+					<div class="songs__item-cover-info-block">
+							<a href="/albums/duke-ellington-jazz-piano/">Jazz Piano</a>						</div>
+				</div>
+	</div>
+		<div class="songs__item" id="bx_3218110189_10445">
+						<a class="songs__item-cover" href="/notes/maiko-fujita-nee-ost-alye-oskolki-hiiro-no-kakera/"><img class="songs__item-cover-src" src="/upload/resize_cache/iblock/169/68_68_240cd750bba9870f18aada2478b24840a/169a522b64936bb33fc16cabbcf2bf83.jpg" alt="Nee" srcset="/upload/resize_cache/iblock/169/136_136_240cd750bba9870f18aada2478b24840a/169a522b64936bb33fc16cabbcf2bf83.jpg 2x"/></a>
+				<div class="songs__item-cover-info">
+			<a class="songs__item-cover-info-title" href="/notes/maiko-fujita-nee-ost-alye-oskolki-hiiro-no-kakera/">Nee</a>
+						<div class="songs__item-cover-info-block">
+							<a href="/musicians/maiko-fujita/">Maiko Fujita</a>						</div>
+					<div class="songs__item-cover-info-block">
+							<a href="/albums/iz-anime-hiiro-no-kakera-alye-oskolki/">Hiiro no Kakera</a>						</div>
+				</div>
+	</div>
+		<div class="songs__item" id="bx_3218110189_11933">
+						<a class="songs__item-cover" href="/notes/polina-gagarina-kukushka-oficialnyj-saundtrek-k-filmu-bitva-za-sevastopol/"><img class="songs__item-cover-src" src="/upload/resize_cache/iblock/13d/68_68_240cd750bba9870f18aada2478b24840a/13da161880d4419db32528b2105ea240.jpg" alt="Кукушка" srcset="/upload/resize_cache/iblock/13d/136_136_240cd750bba9870f18aada2478b24840a/13da161880d4419db32528b2105ea240.jpg 2x"/></a>
+				<div class="songs__item-cover-info">
+			<a class="songs__item-cover-info-title" href="/notes/polina-gagarina-kukushka-oficialnyj-saundtrek-k-filmu-bitva-za-sevastopol/">Кукушка</a>
+						<div class="songs__item-cover-info-block">
+							<a href="/musicians/gagarina-polina/">Гагарина, Полина</a>						</div>
+					<div class="songs__item-cover-info-block">
+							<a href="/albums/iz-filma-bitva-za-sevastopol/">Битва за Севастополь</a>						</div>
+				</div>
+	</div>
+		<div class="songs__item" id="bx_3218110189_3293">
+						<a class="songs__item-cover" href="/notes/iz-kinofilma-zavoevanie-raya-conquestofparadise/"><img class="songs__item-cover-src" src="/upload/resize_cache/iblock/b60/zlevmpaz65hza9khx327xsgcm9hgnw59/68_68_240cd750bba9870f18aada2478b24840a/Снимок экрана 2021-10-16 в 10.06.41.jpg" alt="Conquest of Paradise" srcset="/upload/resize_cache/iblock/b60/zlevmpaz65hza9khx327xsgcm9hgnw59/136_136_240cd750bba9870f18aada2478b24840a/Снимок экрана 2021-10-16 в 10.06.41.jpg 2x"/></a>
+				<div class="songs__item-cover-info">
+			<a class="songs__item-cover-info-title" href="/notes/iz-kinofilma-zavoevanie-raya-conquestofparadise/">Conquest of Paradise</a>
+						<div class="songs__item-cover-info-block">
+							<a href="/musicians/vangelis/">Vangelis</a>						</div>
+					<div class="songs__item-cover-info-block">
+							<a href="/albums/iz-filma-1492-conquest-of-paradise-1492-zavoevanie-raya/">1492: Conquest of Paradise</a>						</div>
+				</div>
+	</div>
+		<div class="songs__item" id="bx_3218110189_3916">
+						<a class="songs__item-cover" href="/notes/beauty-and-the-beast-iz-multfilma-krasavica-i-chudovishhe/"><img class="songs__item-cover-src" src="/upload/resize_cache/iblock/8c0/68_68_240cd750bba9870f18aada2478b24840a/8c05caaacd9b606eece4e8e3e81023aa.jpg" alt="Beauty And The Beast Theme" srcset="/upload/resize_cache/iblock/8c0/136_136_240cd750bba9870f18aada2478b24840a/8c05caaacd9b606eece4e8e3e81023aa.jpg 2x"/></a>
+				<div class="songs__item-cover-info">
+			<a class="songs__item-cover-info-title" href="/notes/beauty-and-the-beast-iz-multfilma-krasavica-i-chudovishhe/">Beauty And The Beast Theme</a>
+						<div class="songs__item-cover-info-block">
+							<a href="/musicians/alan-menken/">Alan Menken</a>						</div>
+					<div class="songs__item-cover-info-block">
+							<a href="/albums/iz-multfilma-beauty-and-the-beast-krasavitsa-i-chudovishche/">Beauty And The Beast</a>						</div>
+				</div>
+	</div>
+		<div class="songs__item" id="bx_3218110189_3677">
+								<a class="songs__item-cover" href="/notes/richard-clayderman-mariage-damour/"><img loading="lazy" class="songs__item-cover-src" src="/upload/resize_cache/iblock/af5/68_68_240cd750bba9870f18aada2478b24840a/af59e42feb214f56271cbd470431d108.jpg" alt="Mariage D'Amour" srcset="/upload/resize_cache/iblock/af5/136_136_240cd750bba9870f18aada2478b24840a/af59e42feb214f56271cbd470431d108.jpg 2x"/></a>
+						<div class="songs__item-cover-info">
+			<a class="songs__item-cover-info-title" href="/notes/richard-clayderman-mariage-damour/">Mariage D'Amour</a>
+						<div class="songs__item-cover-info-block">
+							<a href="/musicians/richard-clayderman/">Richard Clayderman</a>						</div>
+				</div>
+	</div>
+		<div class="songs__item" id="bx_3218110189_12022">
+						<a class="songs__item-cover" href="/notes/vladimir-sivickii%25cc%2586-vspominaya-tebya-ost-snai%25cc%2586per/"><img class="songs__item-cover-src" src="/upload/resize_cache/iblock/dd0/7k9x3p5hztyz3opkmpuzcru1w4n515l6/68_68_240cd750bba9870f18aada2478b24840a/Снимок экрана 2021-11-24 в 10.58.05.jpg" alt="Вспоминая Тебя" srcset="/upload/resize_cache/iblock/dd0/7k9x3p5hztyz3opkmpuzcru1w4n515l6/136_136_240cd750bba9870f18aada2478b24840a/Снимок экрана 2021-11-24 в 10.58.05.jpg 2x"/></a>
+				<div class="songs__item-cover-info">
+			<a class="songs__item-cover-info-title" href="/notes/vladimir-sivickii%25cc%2586-vspominaya-tebya-ost-snai%25cc%2586per/">Вспоминая Тебя</a>
+						<div class="songs__item-cover-info-block">
+							<a href="/musicians/sivickii%25cc%2586-vladimir/">Сивицкий Владимир</a>						</div>
+					<div class="songs__item-cover-info-block">
+							<a href="/albums/iz-filma-american-sniper-snayper/">American Sniper</a>						</div>
+				</div>
+	</div>
+		<div class="songs__item" id="bx_3218110189_10266">
+						<a class="songs__item-cover" href="/notes/vladimir-shainskij-chunga-changa-iz-mf-katerok/"><img class="songs__item-cover-src" src="/upload/resize_cache/iblock/e44/jls4rgfj22mb0ggrd99xt09v6isnt6ic/68_68_240cd750bba9870f18aada2478b24840a/Снимок экрана 2021-10-15 в 17.17.51.jpg" alt="Чунга-Чанга" srcset="/upload/resize_cache/iblock/e44/jls4rgfj22mb0ggrd99xt09v6isnt6ic/136_136_240cd750bba9870f18aada2478b24840a/Снимок экрана 2021-10-15 в 17.17.51.jpg 2x"/></a>
+				<div class="songs__item-cover-info">
+			<a class="songs__item-cover-info-title" href="/notes/vladimir-shainskij-chunga-changa-iz-mf-katerok/">Чунга-Чанга</a>
+						<div class="songs__item-cover-info-block">
+							<a href="/musicians/shainskij-vladimir-yakovlevich/">Шаинский Владимир Яковлевич</a>						</div>
+					<div class="songs__item-cover-info-block">
+							<a href="/albums/iz-multfilma-katerok/">Korablik</a>						</div>
+				</div>
+	</div>
+
+</div>
+</div>
+<div class="notes-detail__body-item new">
+<div class="noveltes">
+
+		<div class="noveltes__item" id="bx_651765591_46877">
+		<a class="noveltes__item-name" href="/notes/bts-awake/">Awake</a>
+
+					<div class="noveltes__item-name-block">
+							<a href="/albums/bts-wings/">Wings</a>						</div>
+			</div>
+		<div class="noveltes__item" id="bx_651765591_46876">
+		<a class="noveltes__item-name" href="/notes/bts-trivia-seesaw-4-hands/">Trivia 轉: Seesaw (4 hands)</a>
+
+					<div class="noveltes__item-name-block">
+							<a href="/albums/bts-love-yourself-answer/">Love Yourself: Answer</a>						</div>
+			</div>
+		<div class="noveltes__item" id="bx_651765591_46875">
+		<a class="noveltes__item-name" href="/notes/bts-i-need-u-4-hands/">I Need U (4 hands)</a>
+
+			</div>
+		<div class="noveltes__item" id="bx_651765591_46874">
+		<a class="noveltes__item-name" href="/notes/bts-trivia-love/">Trivia 承: Love</a>
+
+					<div class="noveltes__item-name-block">
+							<a href="/albums/bts-love-yourself-answer/">Love Yourself: Answer</a>						</div>
+			</div>
+		<div class="noveltes__item" id="bx_651765591_46873">
+		<a class="noveltes__item-name" href="/notes/bts-don-t-leave-me/">Don't Leave Me</a>
+
+					<div class="noveltes__item-name-block">
+							<a href="/albums/bts-face-yourself/">Face Yourself</a>						</div>
+			</div>
+		<div class="noveltes__item" id="bx_651765591_46872">
+		<a class="noveltes__item-name" href="/notes/bts-rain/">Rain</a>
+
+					<div class="noveltes__item-name-block">
+							<a href="/albums/bts-dark-wild/">Dark & Wild</a>						</div>
+			</div>
+		<div class="noveltes__item" id="bx_651765591_46871">
+		<a class="noveltes__item-name" href="/notes/bts-lights/">Lights</a>
+
+					<div class="noveltes__item-name-block">
+							<a href="/albums/bts-map-of-the-soul-7-the-journey/">Map of the Soul: 7 — The Journey</a>						</div>
+			</div>
+		<div class="noveltes__item" id="bx_651765591_46870">
+		<a class="noveltes__item-name" href="/notes/bts-title-tracks-collection-songbook/">Title Tracks Collection (Songbook)</a>
+
+			</div>
+		<div class="noveltes__item" id="bx_651765591_46869">
+		<a class="noveltes__item-name" href="/notes/bts-134340/">134340</a>
+
+					<div class="noveltes__item-name-block">
+							<a href="/albums/bts-love-yourself-tear/">Love Yourself: Tear</a>						</div>
+			</div>
+		<div class="noveltes__item" id="bx_651765591_46868">
+		<a class="noveltes__item-name" href="/notes/bts-friends/">Friends</a>
+
+					<div class="noveltes__item-name-block">
+							<a href="/albums/bts-bts-world/">BTS WORLD</a>						</div>
+			</div>
+		<div class="noveltes__item" id="bx_651765591_46867">
+		<a class="noveltes__item-name" href="/notes/bts-moon/">Moon</a>
+
+					<div class="noveltes__item-name-block">
+							<a href="/albums/bts-map-of-the-soul-7/">Map of the Soul: 7</a>						</div>
+			</div>
+		<div class="noveltes__item" id="bx_651765591_46866">
+		<a class="noveltes__item-name" href="/notes/bts-map-of-the-soul-7-songbook/">MAP OF THE SOUL: 7 (Songbook)</a>
+
+					<div class="noveltes__item-name-block">
+							<a href="/albums/bts-map-of-the-soul-7/">Map of the Soul: 7</a>						</div>
+			</div>
+		<div class="noveltes__item" id="bx_651765591_46865">
+		<a class="noveltes__item-name" href="/notes/bts-louder-than-bombs/">Louder Than Bombs</a>
+
+					<div class="noveltes__item-name-block">
+							<a href="/albums/bts-map-of-the-soul-7/">Map of the Soul: 7</a>						</div>
+			</div>
+		<div class="noveltes__item" id="bx_651765591_46864">
+		<a class="noveltes__item-name" href="/notes/bts-stay-gold/">Stay Gold</a>
+
+					<div class="noveltes__item-name-block">
+							<a href="/albums/bts-map-of-the-soul-7-the-journey/">Map of the Soul: 7 — The Journey</a>						</div>
+			</div>
+		<div class="noveltes__item" id="bx_651765591_46863">
+		<a class="noveltes__item-name" href="/notes/bts-dream-glow/">Dream Glow</a>
+
+					<div class="noveltes__item-name-block">
+							<a href="/albums/bts-bts-world/">BTS WORLD</a>						</div>
+			</div>
+		<div class="noveltes__item" id="bx_651765591_46862">
+		<a class="noveltes__item-name" href="/notes/bts-filter-4-hands/">Filter (4 hands)</a>
+
+					<div class="noveltes__item-name-block">
+							<a href="/albums/bts-map-of-the-soul-7/">Map of the Soul: 7</a>						</div>
+			</div>
+		<div class="noveltes__item" id="bx_651765591_46861">
+		<a class="noveltes__item-name" href="/notes/bts-two-three-hoping-for-more-good-days/">Two! Three! (Hoping For More Good Days)</a>
+
+					<div class="noveltes__item-name-block">
+							<a href="/albums/bts-wings/">Wings</a>						</div>
+			</div>
+		<div class="noveltes__item" id="bx_651765591_46860">
+		<a class="noveltes__item-name" href="/notes/bts-jamais-vu/">Jamais Vu</a>
+
+					<div class="noveltes__item-name-block">
+							<a href="/albums/bts-map-of-the-soul-persona/">Map of the Soul: Persona</a>						</div>
+			</div>
+		<div class="noveltes__item" id="bx_651765591_46859">
+		<a class="noveltes__item-name" href="/notes/bts-fly-to-my-room/">Fly To My Room</a>
+
+					<div class="noveltes__item-name-block">
+							<a href="/albums/bts-be/">Be</a>						</div>
+			</div>
+		<div class="noveltes__item" id="bx_651765591_46858">
+		<a class="noveltes__item-name" href="/notes/bts-abyss/">Abyss</a>
+
+			</div>
+		<div class="noveltes__item" id="bx_651765591_46857">
+		<a class="noveltes__item-name" href="/notes/bts-not-today/">Not Today</a>
+
+					<div class="noveltes__item-name-block">
+							<a href="/albums/bts-wings-you-never-walk-alone/">Wings: You Never Walk Alone</a>						</div>
+			</div>
+		<div class="noveltes__item" id="bx_651765591_46856">
+		<a class="noveltes__item-name" href="/notes/bts-we-are-bulletproof-the-eternal/">We Are Bulletproof: The Eternal</a>
+
+					<div class="noveltes__item-name-block">
+							<a href="/albums/bts-map-of-the-soul-7/">Map of the Soul: 7</a>						</div>
+			</div>
+
+</div>
+</div>
+		</div>
+<h2 class="mp__content-title mp-pop-albums">Popular from Categories</h2>
+<!-- <div class="mp__content-subtitle mp-pop-albums-st">From <a href="/notes/movies/">movies</a>, <a href="/notes/tv-series/">TV series</a>, <a href="/notes/musicals/">musicals</a>, <a href="/notes/cartoons/">cartoons</a>, <a href="/notes/anime/">anime</a> and <a href="/notes/games-ost/">games</a></div> -->
+<div class="albums-wrap">
+<div class="albums">
+
+		<a class="albums__item" href="/albums/iz-anime-howl-s-moving-castle-khodyachiy-zamok/" id="bx_1373509569_16266">
+		<div class="albums__item-cover">
+						<img loading="lazy" class="albums__item-cover-src" src="/upload/resize_cache/iblock/28d/263_263_240cd750bba9870f18aada2478b24840a/28ddb0f5483697e5b0455097626c9115.png" alt="Howl's Moving Castle" srcset="/upload/resize_cache/iblock/28d/526_526_240cd750bba9870f18aada2478b24840a/28ddb0f5483697e5b0455097626c9115.png 2x"/>
+		</div>
+		<div class="albums__item-title">Howl's Moving Castle</div>
+		<div class="albums__item-count">13 <span class="albums__item-count-text">pieces</span></div>
+	</a>
+		<a class="albums__item" href="/albums/iz-seriala-game-of-thrones-igra-prestolov/" id="bx_1373509569_16661">
+		<div class="albums__item-cover">
+						<img loading="lazy" class="albums__item-cover-src" src="/upload/resize_cache/iblock/e5d/263_263_240cd750bba9870f18aada2478b24840a/e5d0adb1c4aff555fb666d4f77db5eb0.jpg" alt="Game of Thrones" srcset="/upload/iblock/e5d/e5d0adb1c4aff555fb666d4f77db5eb0.jpg 2x"/>
+		</div>
+		<div class="albums__item-title">Game of Thrones</div>
+		<div class="albums__item-count">48 <span class="albums__item-count-text">pieces</span></div>
+	</a>
+		<a class="albums__item" href="/albums/ling-tosite-sigure-i-mperfect/" id="bx_1373509569_19324">
+		<div class="albums__item-cover">
+						<img loading="lazy" class="albums__item-cover-src" src="/upload/resize_cache/iblock/802/263_263_240cd750bba9870f18aada2478b24840a/802daf47a3dcbb7dd269f32e38ec8948.jpg" alt="I'mperfect" srcset="/upload/iblock/802/802daf47a3dcbb7dd269f32e38ec8948.jpg 2x"/>
+		</div>
+		<div class="albums__item-title">I'mperfect</div>
+		<div class="albums__item-count">1 <span class="albums__item-count-text">pieces</span></div>
+	</a>
+		<a class="albums__item" href="/albums/iz-igry-final-fantasy-vii/" id="bx_1373509569_16777">
+		<div class="albums__item-cover">
+						<img loading="lazy" class="albums__item-cover-src" src="/upload/resize_cache/iblock/c58/263_263_240cd750bba9870f18aada2478b24840a/c58aca334968384349848ab6f59d54fd.jpeg" alt="Final Fantasy VII Advent Children" srcset="/upload/resize_cache/iblock/c58/526_526_240cd750bba9870f18aada2478b24840a/c58aca334968384349848ab6f59d54fd.jpeg 2x"/>
+		</div>
+		<div class="albums__item-title">Final Fantasy VII Advent Children</div>
+		<div class="albums__item-count">4 <span class="albums__item-count-text">pieces</span></div>
+	</a>
+		<a class="albums__item" href="/albums/dali-moonlight-densetsu/" id="bx_1373509569_20473">
+		<div class="albums__item-cover">
+						<img loading="lazy" class="albums__item-cover-src" src="/upload/resize_cache/iblock/7b3/263_263_240cd750bba9870f18aada2478b24840a/7b3d045f0f5067117af8a260ce502a9c.jpg" alt="Moonlight Densetsu" srcset="/upload/iblock/7b3/7b3d045f0f5067117af8a260ce502a9c.jpg 2x"/>
+		</div>
+		<div class="albums__item-title">Moonlight Densetsu</div>
+		<div class="albums__item-count">1 <span class="albums__item-count-text">pieces</span></div>
+	</a>
+		<a class="albums__item" href="/albums/iz-anime-jojo-s-bizarre-adventure-part-4-diamond-is-unbreakable-neveroyatnoe-priklyuchenie-dzhodzho-/" id="bx_1373509569_18147">
+		<div class="albums__item-cover">
+						<img loading="lazy" class="albums__item-cover-src" src="/upload/resize_cache/iblock/ded/4kpf937870cgmtzr600a7qs0plc1q1m1/263_263_240cd750bba9870f18aada2478b24840a/Jojoms Bizarre Adventure Part 4- Diamond Is Unbreakable.jpeg" alt="Jojo's Bizarre Adventure Part 4: Diamond Is Unbreakable" srcset="/upload/resize_cache/iblock/ded/4kpf937870cgmtzr600a7qs0plc1q1m1/526_526_240cd750bba9870f18aada2478b24840a/Jojoms Bizarre Adventure Part 4- Diamond Is Unbreakable.jpeg 2x"/>
+		</div>
+		<div class="albums__item-title">Jojo's Bizarre Adventure Part 4: Diamond Is Unbreakable</div>
+		<div class="albums__item-count">3 <span class="albums__item-count-text">pieces</span></div>
+	</a>
+		<a class="albums__item" href="/albums/tv-animation-tokyo-ghoul-original-soundtrack/" id="bx_1373509569_18840">
+		<div class="albums__item-cover">
+						<img loading="lazy" class="albums__item-cover-src" src="/upload/resize_cache/iblock/ed7/263_263_240cd750bba9870f18aada2478b24840a/ed775cb9a742df022aff7b69a40f5449.jpg" alt="TV ANIMATION Tokyo Ghoul Original Soundtrack" srcset="/upload/iblock/ed7/ed775cb9a742df022aff7b69a40f5449.jpg 2x"/>
+		</div>
+		<div class="albums__item-title">TV ANIMATION Tokyo Ghoul Original Soundtrack</div>
+		<div class="albums__item-count">1 <span class="albums__item-count-text">pieces</span></div>
+	</a>
+		<a class="albums__item" href="/albums/tk-signal/" id="bx_1373509569_19330">
+		<div class="albums__item-cover">
+						<img loading="lazy" class="albums__item-cover-src" src="/upload/resize_cache/iblock/892/263_263_240cd750bba9870f18aada2478b24840a/89260b866f69c5c9d300f24a0a0370b1.jpeg" alt="Signal" srcset="/upload/resize_cache/iblock/892/526_526_240cd750bba9870f18aada2478b24840a/89260b866f69c5c9d300f24a0a0370b1.jpeg 2x"/>
+		</div>
+		<div class="albums__item-title">Signal</div>
+		<div class="albums__item-count">1 <span class="albums__item-count-text">pieces</span></div>
+	</a>
+		<a class="albums__item" href="/albums/iz-seriala-svaty/" id="bx_1373509569_16549">
+		<div class="albums__item-cover">
+						<img loading="lazy" class="albums__item-cover-src" src="/upload/resize_cache/iblock/752/263_263_240cd750bba9870f18aada2478b24840a/752bb3d1f61bef17454ee9ee2961b160.png" alt="Сваты" srcset="/upload/resize_cache/iblock/752/526_526_240cd750bba9870f18aada2478b24840a/752bb3d1f61bef17454ee9ee2961b160.png 2x"/>
+		</div>
+		<div class="albums__item-title">Сваты</div>
+		<div class="albums__item-count">1 <span class="albums__item-count-text">pieces</span></div>
+	</a>
+		<a class="albums__item" href="/albums/tk-katharsis/" id="bx_1373509569_19327">
+		<div class="albums__item-cover">
+						<img loading="lazy" class="albums__item-cover-src" src="/upload/resize_cache/iblock/bad/263_263_240cd750bba9870f18aada2478b24840a/bad5d9e985bf1783276729e9a4b204cb.jpg" alt="Katharsis" srcset="/upload/resize_cache/iblock/bad/526_526_240cd750bba9870f18aada2478b24840a/bad5d9e985bf1783276729e9a4b204cb.jpg 2x"/>
+		</div>
+		<div class="albums__item-title">Katharsis</div>
+		<div class="albums__item-count">1 <span class="albums__item-count-text">pieces</span></div>
+	</a>
+		<a class="albums__item" href="/albums/porno-graffitti-the-day/" id="bx_1373509569_18781">
+		<div class="albums__item-cover">
+						<img loading="lazy" class="albums__item-cover-src" src="/upload/resize_cache/iblock/2d0/263_263_240cd750bba9870f18aada2478b24840a/2d0b885a2852f54dda4bcc130aabd181.jpg" alt="The Day" srcset="/upload/iblock/2d0/2d0b885a2852f54dda4bcc130aabd181.jpg 2x"/>
+		</div>
+		<div class="albums__item-title">The Day</div>
+		<div class="albums__item-count">1 <span class="albums__item-count-text">pieces</span></div>
+	</a>
+		<a class="albums__item" href="/albums/theishter-collection/" id="bx_1373509569_18423">
+		<div class="albums__item-cover">
+						<img loading="lazy" class="albums__item-cover-src" src="/upload/resize_cache/iblock/c07/263_263_240cd750bba9870f18aada2478b24840a/c0738e659566a7ab8c099a7eb30e1f53.jpg" alt="TheIshter Collection" srcset="/upload/iblock/c07/c0738e659566a7ab8c099a7eb30e1f53.jpg 2x"/>
+		</div>
+		<div class="albums__item-title">TheIshter Collection</div>
+		<div class="albums__item-count">1 <span class="albums__item-count-text">pieces</span></div>
+	</a>
+
+</div>
+</div>
+    </div>
+    <div class="mp__sidebar">
+        <h2 class="mp__sidebar-title mp-new">New</h2>
+		<div class="noveltes">
+
+		<div class="noveltes__item" id="bx_3485106786_46877">
+		<a class="noveltes__item-name" href="/notes/bts-awake/">Awake</a>
+
+					<div class="noveltes__item-name-block">
+							<a href="/musicians/bts/">BTS</a>						</div>
+					<div class="noveltes__item-name-block">
+							<a href="/albums/bts-wings/">Wings</a>						</div>
+			</div>
+		<div class="noveltes__item" id="bx_3485106786_46876">
+		<a class="noveltes__item-name" href="/notes/bts-trivia-seesaw-4-hands/">Trivia 轉: Seesaw (4 hands)</a>
+
+					<div class="noveltes__item-name-block">
+							<a href="/musicians/bts/">BTS</a>						</div>
+					<div class="noveltes__item-name-block">
+							<a href="/albums/bts-love-yourself-answer/">Love Yourself: Answer</a>						</div>
+			</div>
+		<div class="noveltes__item" id="bx_3485106786_46875">
+		<a class="noveltes__item-name" href="/notes/bts-i-need-u-4-hands/">I Need U (4 hands)</a>
+
+					<div class="noveltes__item-name-block">
+							<a href="/musicians/bts/">BTS</a>						</div>
+			</div>
+		<div class="noveltes__item" id="bx_3485106786_46874">
+		<a class="noveltes__item-name" href="/notes/bts-trivia-love/">Trivia 承: Love</a>
+
+					<div class="noveltes__item-name-block">
+							<a href="/musicians/bts/">BTS</a>						</div>
+					<div class="noveltes__item-name-block">
+							<a href="/albums/bts-love-yourself-answer/">Love Yourself: Answer</a>						</div>
+			</div>
+		<div class="noveltes__item" id="bx_3485106786_46873">
+		<a class="noveltes__item-name" href="/notes/bts-don-t-leave-me/">Don't Leave Me</a>
+
+					<div class="noveltes__item-name-block">
+							<a href="/musicians/bts/">BTS</a>						</div>
+					<div class="noveltes__item-name-block">
+							<a href="/albums/bts-face-yourself/">Face Yourself</a>						</div>
+			</div>
+		<div class="noveltes__item" id="bx_3485106786_46872">
+		<a class="noveltes__item-name" href="/notes/bts-rain/">Rain</a>
+
+					<div class="noveltes__item-name-block">
+							<a href="/musicians/bts/">BTS</a>						</div>
+					<div class="noveltes__item-name-block">
+							<a href="/albums/bts-dark-wild/">Dark & Wild</a>						</div>
+			</div>
+		<div class="noveltes__item" id="bx_3485106786_46871">
+		<a class="noveltes__item-name" href="/notes/bts-lights/">Lights</a>
+
+					<div class="noveltes__item-name-block">
+							<a href="/musicians/bts/">BTS</a>						</div>
+					<div class="noveltes__item-name-block">
+							<a href="/albums/bts-map-of-the-soul-7-the-journey/">Map of the Soul: 7 — The Journey</a>						</div>
+			</div>
+		<div class="noveltes__item" id="bx_3485106786_46870">
+		<a class="noveltes__item-name" href="/notes/bts-title-tracks-collection-songbook/">Title Tracks Collection (Songbook)</a>
+
+					<div class="noveltes__item-name-block">
+							<a href="/musicians/bts/">BTS</a>						</div>
+			</div>
+		<div class="noveltes__item" id="bx_3485106786_46869">
+		<a class="noveltes__item-name" href="/notes/bts-134340/">134340</a>
+
+					<div class="noveltes__item-name-block">
+							<a href="/musicians/bts/">BTS</a>						</div>
+					<div class="noveltes__item-name-block">
+							<a href="/albums/bts-love-yourself-tear/">Love Yourself: Tear</a>						</div>
+			</div>
+		<div class="noveltes__item" id="bx_3485106786_46868">
+		<a class="noveltes__item-name" href="/notes/bts-friends/">Friends</a>
+
+					<div class="noveltes__item-name-block">
+							<a href="/musicians/bts/">BTS</a>						</div>
+					<div class="noveltes__item-name-block">
+							<a href="/albums/bts-bts-world/">BTS WORLD</a>						</div>
+			</div>
+		<div class="noveltes__item" id="bx_3485106786_46867">
+		<a class="noveltes__item-name" href="/notes/bts-moon/">Moon</a>
+
+					<div class="noveltes__item-name-block">
+							<a href="/musicians/bts/">BTS</a>						</div>
+					<div class="noveltes__item-name-block">
+							<a href="/albums/bts-map-of-the-soul-7/">Map of the Soul: 7</a>						</div>
+			</div>
+		<div class="noveltes__item" id="bx_3485106786_46866">
+		<a class="noveltes__item-name" href="/notes/bts-map-of-the-soul-7-songbook/">MAP OF THE SOUL: 7 (Songbook)</a>
+
+					<div class="noveltes__item-name-block">
+							<a href="/musicians/bts/">BTS</a>						</div>
+					<div class="noveltes__item-name-block">
+							<a href="/albums/bts-map-of-the-soul-7/">Map of the Soul: 7</a>						</div>
+			</div>
+		<div class="noveltes__item" id="bx_3485106786_46865">
+		<a class="noveltes__item-name" href="/notes/bts-louder-than-bombs/">Louder Than Bombs</a>
+
+					<div class="noveltes__item-name-block">
+							<a href="/musicians/bts/">BTS</a>						</div>
+					<div class="noveltes__item-name-block">
+							<a href="/albums/bts-map-of-the-soul-7/">Map of the Soul: 7</a>						</div>
+			</div>
+		<div class="noveltes__item" id="bx_3485106786_46864">
+		<a class="noveltes__item-name" href="/notes/bts-stay-gold/">Stay Gold</a>
+
+					<div class="noveltes__item-name-block">
+							<a href="/musicians/bts/">BTS</a>						</div>
+					<div class="noveltes__item-name-block">
+							<a href="/albums/bts-map-of-the-soul-7-the-journey/">Map of the Soul: 7 — The Journey</a>						</div>
+			</div>
+		<div class="noveltes__item" id="bx_3485106786_46863">
+		<a class="noveltes__item-name" href="/notes/bts-dream-glow/">Dream Glow</a>
+
+					<div class="noveltes__item-name-block">
+							<a href="/musicians/bts/">BTS</a>						</div>
+					<div class="noveltes__item-name-block">
+							<a href="/albums/bts-bts-world/">BTS WORLD</a>						</div>
+			</div>
+		<div class="noveltes__item" id="bx_3485106786_46862">
+		<a class="noveltes__item-name" href="/notes/bts-filter-4-hands/">Filter (4 hands)</a>
+
+					<div class="noveltes__item-name-block">
+							<a href="/musicians/bts/">BTS</a>						</div>
+					<div class="noveltes__item-name-block">
+							<a href="/albums/bts-map-of-the-soul-7/">Map of the Soul: 7</a>						</div>
+			</div>
+		<div class="noveltes__item" id="bx_3485106786_46861">
+		<a class="noveltes__item-name" href="/notes/bts-two-three-hoping-for-more-good-days/">Two! Three! (Hoping For More Good Days)</a>
+
+					<div class="noveltes__item-name-block">
+							<a href="/musicians/bts/">BTS</a>						</div>
+					<div class="noveltes__item-name-block">
+							<a href="/albums/bts-wings/">Wings</a>						</div>
+			</div>
+		<div class="noveltes__item" id="bx_3485106786_46860">
+		<a class="noveltes__item-name" href="/notes/bts-jamais-vu/">Jamais Vu</a>
+
+					<div class="noveltes__item-name-block">
+							<a href="/musicians/bts/">BTS</a>						</div>
+					<div class="noveltes__item-name-block">
+							<a href="/albums/bts-map-of-the-soul-persona/">Map of the Soul: Persona</a>						</div>
+			</div>
+		<div class="noveltes__item" id="bx_3485106786_46859">
+		<a class="noveltes__item-name" href="/notes/bts-fly-to-my-room/">Fly To My Room</a>
+
+					<div class="noveltes__item-name-block">
+							<a href="/musicians/bts/">BTS</a>						</div>
+					<div class="noveltes__item-name-block">
+							<a href="/albums/bts-be/">Be</a>						</div>
+			</div>
+		<div class="noveltes__item" id="bx_3485106786_46858">
+		<a class="noveltes__item-name" href="/notes/bts-abyss/">Abyss</a>
+
+					<div class="noveltes__item-name-block">
+							<a href="/musicians/bts/">BTS</a>						</div>
+			</div>
+		<div class="noveltes__item" id="bx_3485106786_46857">
+		<a class="noveltes__item-name" href="/notes/bts-not-today/">Not Today</a>
+
+					<div class="noveltes__item-name-block">
+							<a href="/musicians/bts/">BTS</a>						</div>
+					<div class="noveltes__item-name-block">
+							<a href="/albums/bts-wings-you-never-walk-alone/">Wings: You Never Walk Alone</a>						</div>
+			</div>
+		<div class="noveltes__item" id="bx_3485106786_46856">
+		<a class="noveltes__item-name" href="/notes/bts-we-are-bulletproof-the-eternal/">We Are Bulletproof: The Eternal</a>
+
+					<div class="noveltes__item-name-block">
+							<a href="/musicians/bts/">BTS</a>						</div>
+					<div class="noveltes__item-name-block">
+							<a href="/albums/bts-map-of-the-soul-7/">Map of the Soul: 7</a>						</div>
+			</div>
+		<div class="noveltes__item" id="bx_3485106786_46855">
+		<a class="noveltes__item-name" href="/notes/bts-ddaeng/">DDAENG</a>
+
+					<div class="noveltes__item-name-block">
+							<a href="/musicians/bts/">BTS</a>						</div>
+			</div>
+
+</div>
+    </div>
+
+<div class="gads" style="width: 100%">
+
+<!-- NB top -->
+<ins class="adsbygoogle"
+	 style="display:block"
+	 data-ad-client="ca-pub-7422899357308567"
+	 data-ad-slot="1971292377"
+	 data-ad-format="auto"
+	 data-full-width-responsive="true"></ins>
+</div>
+
+<h2 class="mp__content-title mp-pop-artist">Popular Artists</h2>
+<div class="mp__content-subtitle mp-pop-artist-st">All artists in alphabetical order</div>
+<div class="albums-wrap albums-wrap_alt artist_mod"><div class="albums">
+
+		<a class="albums__item albums__item_alt" href="/musicians/aleksandr-gedike/" id="bx_3099439860_14875">
+		<div class="albums__item-cover">
+						<img loading="lazy" class="albums__item-cover-src" src="/upload/resize_cache/iblock/22b/263_263_240cd750bba9870f18aada2478b24840a/22b19e2e49a0c9cf85511f45e4ab351e.jpg" alt="Alexander Goedicke" srcset="/upload/resize_cache/iblock/22b/526_526_240cd750bba9870f18aada2478b24840a/22b19e2e49a0c9cf85511f45e4ab351e.jpg 2x"/>
+		</div>
+		<div class="albums__item-title">Alexander Goedicke</div>
+		<div class="albums__item-count"><svg class="albums__item-count-icon" width="16" height="10"><use xlink:href="/img/sprite.svg#views"/></svg>239710</div>
+	</a>
+		<a class="albums__item albums__item_alt" href="/musicians/antonio-vivaldi/" id="bx_3099439860_13477">
+		<div class="albums__item-cover">
+						<img loading="lazy" class="albums__item-cover-src" src="/upload/resize_cache/iblock/720/263_263_240cd750bba9870f18aada2478b24840a/720e7643e9d6ad972099c4138a4d51d7.jpg" alt="Antonio Vivaldi" srcset="/upload/resize_cache/iblock/720/526_526_240cd750bba9870f18aada2478b24840a/720e7643e9d6ad972099c4138a4d51d7.jpg 2x"/>
+		</div>
+		<div class="albums__item-title">Antonio Vivaldi</div>
+		<div class="albums__item-count"><svg class="albums__item-count-icon" width="16" height="10"><use xlink:href="/img/sprite.svg#views"/></svg>109582</div>
+	</a>
+		<a class="albums__item albums__item_alt" href="/musicians/antonio-soler/" id="bx_3099439860_14163">
+		<div class="albums__item-cover">
+						<img loading="lazy" class="albums__item-cover-src" src="/upload/resize_cache/iblock/1f0/263_263_240cd750bba9870f18aada2478b24840a/1f0764e350f524c906a8b46f28ea8a31.jpg" alt="Antonio Soler" srcset="/upload/resize_cache/iblock/1f0/526_526_240cd750bba9870f18aada2478b24840a/1f0764e350f524c906a8b46f28ea8a31.jpg 2x"/>
+		</div>
+		<div class="albums__item-title">Antonio Soler</div>
+		<div class="albums__item-count"><svg class="albums__item-count-icon" width="16" height="10"><use xlink:href="/img/sprite.svg#views"/></svg>84034</div>
+	</a>
+		<a class="albums__item albums__item_alt" href="/musicians/starshinin-daniil/" id="bx_3099439860_18984">
+		<div class="albums__item-cover">
+						<img loading="lazy" class="albums__item-cover-src" src="/upload/resize_cache/iblock/ba4/263_263_240cd750bba9870f18aada2478b24840a/ba4e6d253599ff04ff088abf262f7a60.jpg" alt="Старшинин Даниил" srcset="/upload/iblock/ba4/ba4e6d253599ff04ff088abf262f7a60.jpg 2x"/>
+		</div>
+		<div class="albums__item-title">Старшинин Даниил</div>
+		<div class="albums__item-count"><svg class="albums__item-count-icon" width="16" height="10"><use xlink:href="/img/sprite.svg#views"/></svg>57870</div>
+	</a>
+		<a class="albums__item albums__item_alt" href="/musicians/irving-berlin/" id="bx_3099439860_19566">
+		<div class="albums__item-cover">
+						<img loading="lazy" class="albums__item-cover-src" src="/upload/resize_cache/iblock/2ea/263_263_240cd750bba9870f18aada2478b24840a/2ea48cae851a121ac720644acc40d4dc.jpg" alt="Irving Berlin" srcset="/upload/iblock/2ea/2ea48cae851a121ac720644acc40d4dc.jpg 2x"/>
+		</div>
+		<div class="albums__item-title">Irving Berlin</div>
+		<div class="albums__item-count"><svg class="albums__item-count-icon" width="16" height="10"><use xlink:href="/img/sprite.svg#views"/></svg>10631</div>
+	</a>
+		<a class="albums__item albums__item_alt" href="/musicians/jacques-offenbach/" id="bx_3099439860_14145">
+		<div class="albums__item-cover">
+						<img loading="lazy" class="albums__item-cover-src" src="/upload/iblock/784/784e9574f45943f013e6ef036b63f6be.jpg" alt="Jacques Offenbach" srcset="/upload/iblock/784/784e9574f45943f013e6ef036b63f6be.jpg 2x"/>
+		</div>
+		<div class="albums__item-title">Jacques Offenbach</div>
+		<div class="albums__item-count"><svg class="albums__item-count-icon" width="16" height="10"><use xlink:href="/img/sprite.svg#views"/></svg>9011</div>
+	</a>
+		<a class="albums__item albums__item_alt" href="/musicians/rimskij-korsakov-nikolaj/" id="bx_3099439860_14148">
+		<div class="albums__item-cover">
+						<img loading="lazy" class="albums__item-cover-src" src="/upload/resize_cache/iblock/a2f/263_263_240cd750bba9870f18aada2478b24840a/a2fa1ae42235e2b7bd103f3ee25e869a.jpg" alt="Nikolai Rimsky-Korsakov" srcset="/upload/resize_cache/iblock/a2f/526_526_240cd750bba9870f18aada2478b24840a/a2fa1ae42235e2b7bd103f3ee25e869a.jpg 2x"/>
+		</div>
+		<div class="albums__item-title">Nikolai Rimsky-Korsakov</div>
+		<div class="albums__item-count"><svg class="albums__item-count-icon" width="16" height="10"><use xlink:href="/img/sprite.svg#views"/></svg>8188</div>
+	</a>
+		<a class="albums__item albums__item_alt" href="/musicians/joe-hisaishi/" id="bx_3099439860_13144">
+		<div class="albums__item-cover">
+						<img loading="lazy" class="albums__item-cover-src" src="/upload/resize_cache/iblock/2d6/2pc7eyd09a7cmo7amh4qhg0gcvsfxumd/263_263_240cd750bba9870f18aada2478b24840a/Joe_1590571791.jpg" alt="Joe Hisaishi" srcset="/upload/resize_cache/iblock/2d6/2pc7eyd09a7cmo7amh4qhg0gcvsfxumd/526_526_240cd750bba9870f18aada2478b24840a/Joe_1590571791.jpg 2x"/>
+		</div>
+		<div class="albums__item-title">Joe Hisaishi</div>
+		<div class="albums__item-count"><svg class="albums__item-count-icon" width="16" height="10"><use xlink:href="/img/sprite.svg#views"/></svg>7607</div>
+	</a>
+
+</div>
+</div>
+</div>
+</div>
+<footer class="footer">
+  <div class="wrapper">
+    <div class="footer__menu">
+      <!-- <div data="pu-order" class="pu footer__menu-item header-menu-item_3">Order</div> -->
+	  <a class="footer__menu-item header-menu-item_4" href="/donate/">Donate</a>
+      <a class="footer__menu-item header-menu-item_5" href="/get-in-touch/">Contacts</a>
+      <a class="footer__menu-item header-menu-item_6" href="/copyright-holders/">Copyright</a><div class="footer__menu-item_d"></div>
+      <!-- <a class="footer__menu-item" target="_blank" href="https://vk.com/notesboxcom"><svg class="soc-logo" width="24" height="14"><use xlink:href="/img/sprite.svg#vk_alt"/></svg></a> -->
+      <a class="footer__menu-item footer__menu-item--mh" target="_blank" href="https://www.facebook.com/NotesBoxCom/"><svg class="soc-logo" width="11" height="22"><use xlink:href="/img/sprite.svg#fb_alt"/></svg></a>
+    </div>
+      <div class="footer__bottom">
+          <div class="footer__socials">
+              <a class="footer__menu-item" target="_blank" href="https://www.facebook.com/NotesBoxCom/"><svg class="soc-logo" width="11" height="22"><use xlink:href="/img/sprite.svg#fb_alt"/></svg></a>
+          </div>
+          <div class="footer__cr">
+              © Notes-box.com, 2021
+          </div>
+      </div>
+  </div>
+</footer>
+
+<div class="popup-wrap pu-auth">
+  <div class="popup">
+    <div class="popup-close"><svg class="popup-close_b" width="10" height="10"><use xlink:href="/img/sprite.svg#close-b"/></svg></div>
+    
+<div class="bx-authform b-popup-auth">
+
+	<form class="b-popup-auth__form slam-easyform js-auth-form" data-redirect="/personal/" name="form_auth" method="post" action="/">
+
+		<h2 class="bx-authform-title">Login</h2>
+
+					<noindex>
+							<div class="bx-authform-link-container bx-authform-link-container_register">
+					<div class="bx-authform-link-container_register-text">First time here?</div>
+					<a class="pu js-pu-close" href="javascript:void(0)" data="pu-reg" data-close="pu-auth">Register
+					</a>
+				</div>
+						</noindex>
+		
+		<div class="alert alert-danger js-auth-from__errors" style="display: none">
+			
+					</div>
+
+		<div class="form-group b-popup-auth__input">
+			<label class="control-label" for="AUTH_FROM_LOGIN">Username / Email</label>
+			<input class="form-control" type="text" id="AUTH_FROM_LOGIN" name="USER_LOGIN" maxlength="255" value="">
+		</div>
+
+		<div class="form-group b-popup-auth__input">
+			<label class="control-label" for="AUTH_FROM_PASSWORD">Password</label>
+			<input class="form-control" type="password" id="AUTH_FROM_PASSWORD" name="USER_PASSWORD" maxlength="255" autocomplete="off">
+		</div>
+
+		
+					<div class="bx-authform-formgroup-container bx-authform-formgroup-container_remember b-popup-auth__sub">
+				<div class="checkbox">
+					<label class="bx-filter-param-label">
+						<input type="checkbox" id="USER_REMEMBER" name="USER_REMEMBER" value="Y" />
+						<span class="bx-filter-param-text bx-filter-param-text_rm">Remember me</span>
+					</label>
+				</div>
+								<noindex>
+				<div class="bx-authform-link-container bx-authform-link-container_forgot">
+					<a href="/personal/?forgot_password=yes" rel="nofollow">Forgot password
+					</a>
+				</div>
+				</noindex>
+						</div>
+		
+		<div class="bx-authform-formgroup-container">
+			<input type="submit" class="btn btn-primary bx-authform-formgroup-container-sbmt b-popup-auth__submit js-auth-form__button" name="AUTH_ACTION" value="Login" />
+		</div>
+		<input type="hidden" name="AJAX-ACTION" value="AUTH"/>
+		<input type="hidden" name="AUTH_ACTION" value="Login"/>
+	</form>
+
+	
+			<div class="b-popup-auth__socials">
+			<div class="bx-authform-subtitle">with social network</div>
+			<div class="bx-authform-social">
+	<ul>
+		<li>
+			<a id="bx_socserv_icon_Facebook" class="facebook bx-authform-social-icon" href="javascript:void(0)" onclick="BX.util.popup('https://www.facebook.com/dialog/oauth?client_id=163807282217441&amp;redirect_uri=https%3A%2F%2Fnotes-box.com%2Fbitrix%2Ftools%2Foauth%2Ffacebook.php&amp;scope=email,user_friends&amp;display=popup&amp;state=site_id%3Ds1%26backurl%3D%252F%253Fcheck_key%253Db822807882efffb0c478e29120a65db9%26redirect_url%3D%252F', 680, 600)" title="Facebook"></a>
+			</li>
+		<li>
+			<a id="bx_socserv_icon_VKontakte" class="vkontakte bx-authform-social-icon" href="javascript:void(0)" onclick="BX.util.popup('https://oauth.vk.com/authorize?client_id=7766527&amp;redirect_uri=https%3A%2F%2Fnotes-box.com%2Fbitrix%2Ftools%2Foauth%2Fvkontakte.php&amp;scope=friends,offline,email&amp;response_type=code&amp;state=site_id%3Ds1%26backurl%3D%252F%253Fcheck_key%253Db822807882efffb0c478e29120a65db9%26redirect_url%3D%252F', 660, 425)" title="ВКонтакте"></a>
+			</li>
+		<li>
+			<a id="bx_socserv_icon_GoogleOAuth" class="google bx-authform-social-icon" href="javascript:void(0)" onclick="BX.util.popup('https://accounts.google.com/o/oauth2/auth?client_id=737177542943-2139v7a3gnjcc1l5mbg8g0v6fh64tvbu.apps.googleusercontent.com&amp;redirect_uri=https%3A%2F%2Fnotes-box.com%2Fbitrix%2Ftools%2Foauth%2Fgoogle.php&amp;scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&amp;response_type=code&amp;access_type=offline&amp;state=provider%3DGoogleOAuth%26site_id%3Ds1%26backurl%3D%252F%253Fcheck_key%253Db822807882efffb0c478e29120a65db9%26mode%3Dopener%26redirect_url%3D%252F', 580, 400)" title="Google"></a>
+			</li>
+	</ul>
+</div>
+		</div>
+	
+</div>
+
+  </div>
+</div>
+
+<div class="popup-wrap pu-reg">
+  <div class="popup">
+    <div class="popup-close"><svg class="popup-close_b" width="10" height="10"><use xlink:href="/img/sprite.svg#close-b"/></svg></div>
+    
+	<div class="bx-authform b-popup-auth">
+
+		<form class="b-popup-auth__form slam-easyform js-reg-form" data-redirect="/personal/?register=yes" action="/" name="regform" enctype="multipart/form-data" method="POST">
+
+			<h2 class="bx-authform-title">Register</h2>
+
+			<noindex>
+				<div class="bx-authform-link-container bx-authform-link-container_register">
+					<!-- <div class="bx-authform-link-container_register-text">First time here?</div> -->
+					<a class="pu js-pu-close" href="javascript:void(0)" data="pu-auth" data-close="pu-reg">Login</a>
+				</div>
+			</noindex>
+			
+			<input type="hidden" name="AJAX-ACTION" value="REG"/>
+			<input class="js-reg-form__login" type="hidden" name="REGISTER[LOGIN]" value=""/>
+			<input type="hidden" name="register_submit_button" value="Register">
+
+			<div class="js-reg-from__errors" style="color: red;font-size: 13px;">
+							</div>
+
+			<div class="form-group b-popup-auth__input">
+				<label class="control-label" for="REG_FROM_LOGIN">Email</label>
+				<input class="form-control js-reg-form__input js-reg-form__email" data-label="Email" type="text" id="REG_FROM_LOGIN" name="REGISTER[EMAIL]" value="">
+			</div>
+
+			<div class="form-group b-popup-auth__input">
+				<label class="control-label" for="REG_FROM_PASSWORD">Password</label>
+				<input class="form-control js-reg-form__input" data-label="Password" id="REG_FROM_PASSWORD" size="30" type="password" name="REGISTER[PASSWORD]" value="" autocomplete="off" placeholder="Minimum of 3 characters">
+			</div>
+
+			<div class="form-group b-popup-auth__input">
+				<label class="control-label" for="REG_FROM_CONFIRM_PASSWORD">Confirm password</label>
+				<input class="form-control js-reg-form__input" data-label="Confirm password" id="REG_FROM_CONFIRM_PASSWORD" size="30" type="password" name="REGISTER[CONFIRM_PASSWORD]" value="" autocomplete="off">
+			</div>
+			<br>
+			<p class="warning-buy"><small>Сlicking "Register" you agree to the processing of <a target="_blank" href="https://notes-box.com/copyright-holders/">personal data</a></small></p>
+			<br>	
+			<div class="bx-authform-formgroup-container">
+				<input type="submit" class="btn btn-primary bx-authform-formgroup-container-sbmt b-popup-auth__submit js-reg-form__button" name="register_submit_button" value="Register" />
+			</div>
+		</form>
+
+		
+	<div class="b-popup-auth__socials">
+		<div class="bx-authform-subtitle">with social network</div>
+		<div class="bx-authform-social">
+	<ul>
+		<li>
+			<a id="bx_socserv_icon_Facebook" class="facebook bx-authform-social-icon" href="javascript:void(0)" onclick="BX.util.popup('https://www.facebook.com/dialog/oauth?client_id=163807282217441&amp;redirect_uri=https%3A%2F%2Fnotes-box.com%2Fbitrix%2Ftools%2Foauth%2Ffacebook.php&amp;scope=email,user_friends&amp;display=popup&amp;state=site_id%3Ds1%26backurl%3D%252F%253Fcheck_key%253Db822807882efffb0c478e29120a65db9%26redirect_url%3D%252F', 680, 600)" title="Facebook"></a>
+			</li>
+		<li>
+			<a id="bx_socserv_icon_VKontakte" class="vkontakte bx-authform-social-icon" href="javascript:void(0)" onclick="BX.util.popup('https://oauth.vk.com/authorize?client_id=7766527&amp;redirect_uri=https%3A%2F%2Fnotes-box.com%2Fbitrix%2Ftools%2Foauth%2Fvkontakte.php&amp;scope=friends,offline,email&amp;response_type=code&amp;state=site_id%3Ds1%26backurl%3D%252F%253Fcheck_key%253Db822807882efffb0c478e29120a65db9%26redirect_url%3D%252F', 660, 425)" title="ВКонтакте"></a>
+			</li>
+		<li>
+			<a id="bx_socserv_icon_GoogleOAuth" class="google bx-authform-social-icon" href="javascript:void(0)" onclick="BX.util.popup('https://accounts.google.com/o/oauth2/auth?client_id=737177542943-2139v7a3gnjcc1l5mbg8g0v6fh64tvbu.apps.googleusercontent.com&amp;redirect_uri=https%3A%2F%2Fnotes-box.com%2Fbitrix%2Ftools%2Foauth%2Fgoogle.php&amp;scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&amp;response_type=code&amp;access_type=offline&amp;state=provider%3DGoogleOAuth%26site_id%3Ds1%26backurl%3D%252F%253Fcheck_key%253Db822807882efffb0c478e29120a65db9%26mode%3Dopener%26redirect_url%3D%252F', 580, 400)" title="Google"></a>
+			</li>
+	</ul>
+</div>
+	</div>
+
+	</div>
+
+  </div>
+</div>
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-WRJ54DJ');</script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.paren..;
+		})(window,document,'script','dataLayer','GTM-N7J9QH8');</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7422899357308567"
+	 crossorigin="anonymous"></script>
+<script type="text/javascript">if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess==='object'){for(let i in mess) {BX.message[i]=mess[i];} return true;}};</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script><script type="text/javascript" src="/bitrix/js/main/core/core.min.js?1645764854260887"></script><script>BX.setJSList(['/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/core/core_promise.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/loadext/loadext.js','/bitrix/js/main/loadext/extension.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/includes/js/includes.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/ui/polyfill/closest/js/closest.js','/bitrix/js/main/polyfill/fill/main.polyfill.fill.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/core/core.js','/bitrix/js/main/polyfill/intersectionobserver/js/intersectionobserver.js','/bitrix/js/main/lazyload/dist/lazyload.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/parambag/dist/parambag.bundle.js']);
+BX.setCSSList(['/bitrix/js/main/lazyload/dist/lazyload.bundle.css','/bitrix/js/main/parambag/dist/parambag.bundle.css']);</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'7200','UTF_MODE':'Y','SITE_ID':'s1','SITE_DIR':'/','USER_ID':'','SERVER_TIME':'1656592190','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'372f98abf7da01dadfbd9fed69829232'});</script><script type="text/javascript" src="/bitrix/js/main/jquery/jquery-1.8.3.min.js?164576485493637"></script>
+<script type="text/javascript" src="/bitrix/js/main/popup/dist/main.popup.bundle.min.js?164576485461026"></script>
+<script type="text/javascript">BX.setJSList(['/js/jquery.cookie.js','/js/js.js','/bitrix/templates/notesbox/components/bitrix/main.auth.form/popup-register/script.js','/bitrix/templates/notesbox/components/bitrix/main.register/popup/script.js']);</script>
+<script type="text/javascript">BX.setCSSList(['/bitrix/templates/notesbox/components/bitrix/news.list/popular/style.css','/css/fonts.css','/css/desktop.css','/css/mobile.css','/css/reset.css','/bitrix/components/bitrix/socserv.auth.form/templates/flat/style.css']);</script>
+
+
+<script type="text/javascript"  src="/bitrix/cache/js/s1/notesbox/template_d491cb19a6d243af716e72c6e9196fae/template_d491cb19a6d243af716e72c6e9196fae_v1.js?164629890416486"></script>
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "e14e7c897d2ad385c73b926ee69f669d"]); _ba.push(["host", "notes-box.com"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+<script>
+$(document).ready(function () {
+	let timeout = null;
+	$('#search_input').on('input cut copy paste', function (){
+	  console.log($(this).val());
+	  if($(this).val().length > 2) {
+		$('.header-search__content').addClass('header-search__content_active');
+		// $('#search_input').addClass('nb_header-search-input_active');
+	  } else {
+		$('.header-search__content').removeClass('header-search__content_active');
+		// $('#search_input').removeClass('nb_header-search-input_active');
+	  }
+	  if (timeout) clearTimeout(timeout);
+	  $('#search_content').html('<div class="search-popup__item search-popup__item_c"><img style="max-height:50px;" src="/img/loading.svg"/></div>');
+	  timeout = setTimeout(function() {
+		$.ajax({
+		  url: '/include/search.php',
+		  type: 'GET',
+		  data: 'q='+$('#search_input').val()+'&how=r',
+		  success: function (res) {
+			$('#search_content').html(res);
+		  }
+		});
+	  }, 1000);
+	});
+	$(document).mouseup(function (e){ // событие клика по веб-документу
+	  var div = $(".header-search"); // тут указываем ID элемента
+	  if (!div.is(e.target) // если клик был не по нашему блоку
+		&& div.has(e.target).length === 0) { // и не по его дочерним элементам
+		$('.header-search__content').removeClass('header-search__content_active');
+		// $('#search_input').removeClass('nb_header-search-input_active');
+	  }
+	});
+  })
+		</script>
+<script>
+	 (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<script>
+	 (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<script type="text/javascript">
+function BxSocServPopup(id)
+{
+	var content = BX("bx_socserv_form_"+id);
+	if(content)
+	{
+		var popup = BX.PopupWindowManager.create("socServPopup"+id, BX("bx_socserv_icon_"+id), {
+			autoHide: true,
+			closeByEsc: true,
+			angle: {offset: 24},
+			content: content,
+			offsetTop: 3
+		});
+
+		popup.show();
+
+		var input = BX.findChild(content, {'tag':'input', 'attribute':{'type':'text'}}, true);
+		if(input)
+		{
+			input.focus();
+		}
+
+		var button = BX.findChild(content, {'tag':'input', 'attribute':{'type':'submit'}}, true);
+		if(button)
+		{
+			button.className = 'btn btn-primary';
+		}
+	}
+}
+</script>
+
+<script type="text/javascript">
+		try{document.form_auth.USER_LOGIN.focus();}catch(e){}
+	</script><script type="text/javascript">
+function BxSocServPopup(id)
+{
+	var content = BX("bx_socserv_form_"+id);
+	if(content)
+	{
+		var popup = BX.PopupWindowManager.create("socServPopup"+id, BX("bx_socserv_icon_"+id), {
+			autoHide: true,
+			closeByEsc: true,
+			angle: {offset: 24},
+			content: content,
+			offsetTop: 3
+		});
+
+		popup.show();
+
+		var input = BX.findChild(content, {'tag':'input', 'attribute':{'type':'text'}}, true);
+		if(input)
+		{
+			input.focus();
+		}
+
+		var button = BX.findChild(content, {'tag':'input', 'attribute':{'type':'submit'}}, true);
+		if(button)
+		{
+			button.className = 'btn btn-primary';
+		}
+	}
+}
+</script>
+
