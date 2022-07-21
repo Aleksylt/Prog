@@ -9,7 +9,6 @@ def get_mk_address_list() -> list:
     api = connection.get_api()
     list_address = api.get_resource('/ip/firewall/address-list/')
     test = list_address.get()
-    print(test)
     connection.disconnect()
     return test
 
@@ -20,14 +19,11 @@ def del_mk_address_list_by_ip():
     api = connection.get_api()
     list_address = api.get_resource('/ip/firewall/address-list/')
     test = list_address.get()
-    #    print(test)
     if list_address.get(address='192.168.88.88'):
         list = list_address.get(address='192.168.88.88')
         for id in list:
-            print(id['id'])
             list_address.remove(id=id['id'])
     test = list_address.get()
-    print(test)
     connection.disconnect()
 
 
@@ -36,7 +32,6 @@ def add_mk_ip_to_address_list(addr_lst: AddrList):
                                               port=8728, plaintext_login=True)
     api = connection.get_api()
     list_address = api.get_resource('/ip/firewall/address-list/')
-    print(addr_lst.address)
     if not list_address.get(address=str(addr_lst.address), list=str(addr_lst.list)):
 
         list_address.add(list=str(addr_lst.list), address=str(addr_lst.address))
