@@ -4,6 +4,8 @@ ajax.open('GET', 'http://127.0.0.1:8000/addr_lst');
 ajax.setRequestHeader("X-Requested-With", "XMLHttpRequest");
 ajax.send();
 
+
+
 ajax.onload = function() {
         if (ajax.readyState == 4) {
 
