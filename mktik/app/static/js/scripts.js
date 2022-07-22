@@ -1,10 +1,19 @@
 function executeQuery() {
-var ajax = new XMLHttpRequest();
-ajax.open('GET', 'http://127.0.0.1:8000/addr_lst');
-ajax.setRequestHeader("X-Requested-With", "XMLHttpRequest");
-ajax.send();
 
+$.ajax('http://127.0.0.1:8000/addr_lst',
+dataType: 'json', // type of response data
+    timeout: 500,     // timeout milliseconds
+    success: function (data,status,xhr) {   // success callback function
+        $('.result').append(data);
+//        $('.result').append(data.firstName + ' ' + data.middleName + ' ' + data.lastName);
 
+    },
+    error: function (jqXhr, textStatus, errorMessage) { // error callback
+        $('.result').append('Error: ' + errorMessage);
+    }
+});
+
+/*
 ajax.onload = function() {
         if (ajax.readyState == 4) {
 
@@ -29,3 +38,4 @@ $(document).ready(function() {
   setTimeout(executeQuery, 5000);
 });
 
+*/
