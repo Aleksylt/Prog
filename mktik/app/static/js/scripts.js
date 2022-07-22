@@ -5,7 +5,6 @@ ajax.setRequestHeader("X-Requested-With", "XMLHttpRequest");
 ajax.send();
 
 
-
 ajax.onload = function() {
         if (ajax.readyState == 4) {
 
