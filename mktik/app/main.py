@@ -3,8 +3,7 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
 from app.routers import mkroutes
-from utils.mktik import get_mk_address_list
-import config
+from app.config import MKTIK_IP
 
 
 app = FastAPI()
@@ -27,7 +26,7 @@ app.add_middleware(
 @app.on_event("startup")
 async def startup():
     #    await database.connect()
-    print("server start, mktik ip is: ", config.MKTIK_IP)
+    print("server start, mktik ip is: ", MKTIK_IP)
 
 
 @app.on_event("shutdown")
@@ -39,5 +38,4 @@ async def shutdown():
 app.include_router(mkroutes.router)
 
 if __name__ == '__main__':
-#    get_mk_address_list()
     uvicorn.run(app, host="127.0.0.1", port=8000)
