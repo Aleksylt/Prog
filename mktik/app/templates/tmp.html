@@ -5,46 +5,76 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <script src="../static/js/jquery-3.x-git.min.js"></script>
+    <!-- <script src="../static/js/jquery-3.x-git.min.js"></script> -->
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
 
 </head>
 <body>
+<button id="get-data">getData</button>
+    
+    <ul id="resp"></ul>
+
+        
+    
+
 
 <script>
   
+const clickButton = document.querySelector('#get-data')
+const resultBlock = document.querySelector('#resp')
 
-$(document).ready(function () {
-			
-            $('#ajaxBtn').click(function(){
-               $.ajax('https://reqres.in/api/users/2',   // request url
-               {            
-                dataType: 'json', // type of response data
-                timeout:10000,
+clickButton.addEventListener("click", () => {
+const promise = getRemoteData();
+promise.then(onDataReceive)
+
+});
 
 
-                   success: function (data, status, xhr) {    // success callback function
-                           $('.resp').append(data.data.email);
-                   },
-                   error: function (jqXhr, textStatus, errorMessage) { // error callback 
-					$('.resp').append('Error: ' + errorMessage);
-                   }
-               });
-            });
-   
-           });
+function onDataReceive(array){
+    const result = document.querySelector('#resp');
+    result.innerHTML = "";
+    array.forEach(element => {
+        const li =document.createElement('li');
+        li.innerHTML = element.email;
+        result.appendChild(li);
+
+    });
+// для одного элемента
+/*  const li =document.createElement('li');
+        li.innerHTML = array.data.email
+        document.querySelector('#resp').appendChild(li)
+ */
+}
+
+function getRemoteData(){
+const promise = axios.get('https://reqres.in/api/users?page=2');
+return promise.then((response) => {
+    return response.data.data;
+});
+
+
+}
+
+// Make a request for a user with a given ID
+axios.get('https://reqres.in/api/users/2')
+  .then(function (response) {
+    // handle success
+ //   document.querySelector('#resp').append(data.data.email);
+    console.log(response);
+  })
+  .catch(function (error) {
+    // handle error
+    console.log(error);
+  })
+  .then(function () {
+    // always executed
+  });			
+
+  
+
+
 </script>    
 
-<h1> jQuery ajax() demo 
-</h1>
-<input type="button" id="ajaxBtn" value="Send Ajax request" />
-<p>123
-</p>
-
-<h2 class="resp">
-
-
-
-</h2>
 
 
 </body>
