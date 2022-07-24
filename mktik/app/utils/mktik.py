@@ -8,7 +8,7 @@ def get_mk_address_list() -> Message:
                                               port=8728, plaintext_login=True)
     try:
         api = connection.get_api()
-    except:
+    except TypeError:
         resp = {
             "code": 400,
             "message": "error connection to mikrotik"
@@ -16,7 +16,7 @@ def get_mk_address_list() -> Message:
         return resp
     try:
         list_address = api.get_resource('/ip/firewall/address-list/')
-    except:
+    except TypeError:
         resp = {
             "code": 400,
             "message": "error get address list"
@@ -33,7 +33,7 @@ def del_mk_address_list_by_ip():
 
     try:
         api = connection.get_api()
-    except:
+    except TypeError:
         resp = {
             "code": 400,
             "message": "error connection to mikrotik"
@@ -55,7 +55,7 @@ def add_mk_ip_to_address_list(addr_lst: AddrList):
                                               port=8728, plaintext_login=True)
     try:
         api = connection.get_api()
-    except:
+    except TypeError:
         resp = {
             "code": 400,
             "message": "error connection to mikrotik"
