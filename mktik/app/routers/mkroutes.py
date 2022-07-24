@@ -10,16 +10,20 @@ async def health_check():
     return {"Hello": "World"}
 
 
-@router.get("/addr_lst", responses={404: {"model": Message}})
+@router.get("/addr_lst", response_model=Message,
+            responses={404: {"model": Message}, 400:{"model":Message}})
 async def get_addr_lst():
-    return get_mk_address_list()
+    resp = get_mk_address_list()
+    if resp.get('code') == 400:
+        raise HTTPException(status.HTTP_400_BAD_REQUEST, detail=resp.get('message'))
+    return resp
 
 
 @router.post("/addr_lst", response_model=PostResponse, status_code=status.HTTP_201_CREATED,
              responses={404: {"model": Message}, 400: {"model": Message}})
-async def get_addr_lst(addr_lst: AddrList):
+async def post_addr_lst(addr_lst: AddrList):
     resp = add_mk_ip_to_address_list(addr_lst)
     if resp.get('code') == 400:
-        raise HTTPException(status.HTTP_400_BAD_REQUEST, detail=resp.get('msg'))
+        raise HTTPException(status.HTTP_400_BAD_REQUEST, detail=resp.get('message'))
     return resp
 
