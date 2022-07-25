@@ -1,17 +1,17 @@
-function executeQuery() {
-
 $.ajax('http://127.0.0.1:8000/addr_lst',
-dataType: 'json', // type of response data
+{dataType: 'json', // type of response data
     timeout: 500,     // timeout milliseconds
     success: function (data,status,xhr) {   // success callback function
-        $('.result').append(data);
+        $('p').append(data.id);
 //        $('.result').append(data.firstName + ' ' + data.middleName + ' ' + data.lastName);
 
     },
     error: function (jqXhr, textStatus, errorMessage) { // error callback
-        $('.result').append('Error: ' + errorMessage);
+        $('p').append('Error: ' + errorMessage);
+    
     }
-});
+    });
+
 
 /*
 ajax.onload = function() {
