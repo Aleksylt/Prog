@@ -4,21 +4,21 @@ from app.config import MKTIK_IP, MKTIK_PASS, MKTIK_USER
 from routeros_api.exceptions import RouterOsApiConnectionError
 
 
-def get_mk_address_list() -> Message:  # !!!!!!!
+def get_mk_address_list() -> Message:
     connection = routeros_api.RouterOsApiPool(MKTIK_IP, username=MKTIK_USER, password=MKTIK_PASS,
                                               port=8728, plaintext_login=True)
     try:
         api = connection.get_api()
     except TypeError:
         resp = Message(
-            code = 400,
-            message = ["error connection to mikrotik"]
+            code=400,
+            message=["error connection to mikrotik"]
         )
         return resp
     except RouterOsApiConnectionError as err:
         resp = Message(
-            code = 400,
-            message = ["error : " + str(err)]
+            code=400,
+            message=["error : " + str(err)]
         )
         return resp
 
@@ -26,17 +26,16 @@ def get_mk_address_list() -> Message:  # !!!!!!!
         list_address = api.get_resource('/ip/firewall/address-list/')
     except TypeError:
         resp = Message(
-            code = 400,
-            message = ["error get address list"]
+            code=400,
+            message=["error get address list"]
         )
-
         return resp
     result = Message(
         code=200,
         message=list(list_address.get())
     )
     connection.disconnect()
-    return result  # !!!!!!!
+    return result
 
 
 def del_mk_address_list_by_ip():

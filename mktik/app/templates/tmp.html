@@ -35,7 +35,7 @@ function onDataReceive(array){
     result.innerHTML = "";
     array.forEach(element => {
         const li =document.createElement('li');
-        li.innerHTML = element.email;
+        li.innerHTML = JSON.stringify(element);
         result.appendChild(li);
 
     });
@@ -47,9 +47,11 @@ function onDataReceive(array){
 }
 
 function getRemoteData(){
-const promise = axios.get('https://reqres.in/api/users?page=2');
+//const promise = axios.get('https://reqres.in/api/users?page=2');
+const promise = axios.get('http://127.0.0.1:8000/addr_lst');
+
 return promise.then((response) => {
-    return response.data.data;
+    return response.data.message;
 });
 
 
