@@ -39,3 +39,10 @@ app.include_router(mkroutes.router)
 
 if __name__ == '__main__':
     uvicorn.run(app, host="127.0.0.1", port=8000)
+
+
+"""
+    для русских букв надо в  routeros_api/api_strycture.py заменить на:
+    def get_python_value(self, bytes):
+        return bytes.decode('cp1251', "ignore")
+"""

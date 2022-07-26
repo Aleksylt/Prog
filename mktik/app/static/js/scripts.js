@@ -1,41 +1,68 @@
-$.ajax('http://127.0.0.1:8000/addr_lst',
-{dataType: 'json', // type of response data
-    timeout: 500,     // timeout milliseconds
-    success: function (data,status,xhr) {   // success callback function
-        $('p').append(data.id);
-//        $('.result').append(data.firstName + ' ' + data.middleName + ' ' + data.lastName);
+const clickButton = document.querySelector('#get-data')
+const resultBlock = document.querySelector('#resp')
 
-    },
-    error: function (jqXhr, textStatus, errorMessage) { // error callback
-        $('p').append('Error: ' + errorMessage);
-    
-    }
+
+clickButton.addEventListener("click", () => {
+const promise = getRemoteData();
+promise.then(onDataReceive)
+});
+
+
+function onDataReceive(array){
+    const result = document.querySelector('#resp');
+    result.innerHTML = "";
+    array.forEach(element => {
+        const li =document.createElement('li');
+        li.innerHTML = JSON.stringify(element);
+        result.appendChild(li);
+
+    });
+
+    array.forEach(element => {
+        const li =document.createElement('li');
+        li.innerHTML = "id: " + element.id + ", IP adress: " + element.address + ", comment:"+ element.comment;
+        result.appendChild(li);
+
     });
 
 
-/*
-ajax.onload = function() {
-        if (ajax.readyState == 4) {
-
-            if (ajax.status == 200 || ajax.status == 304) {
-                // код при успешном запросе
-                document.querySelector('.result').textContent = ajax.response; // ответ сервера
-            } else {
-                document.querySelector('.result').textContent = "Нет связи с сервером"
-                // код при ошибке
-            }
-        }
-    }
-ajax.onerror = function() {
-    document.querySelector('.result').textContent = "Error";
-
-    }
-    setTimeout(executeQuery, 15000);
+// для одного элемента
+/*  const li =document.createElement('li');
+        li.innerHTML = array.data.email
+        document.querySelector('#resp').appendChild(li)
+ */
 }
 
-$(document).ready(function() {
-  // run the first time; all subsequent calls will take care of themselves
-  setTimeout(executeQuery, 5000);
-});
+function getRemoteData(){
+//const promise = axios.get('https://reqres.in/api/users?page=2');
+const promise = axios.get('http://127.0.0.1:8000/addr_lst');
+
+return promise.then((response) => {
+    return response.data.message;
+})
+ .catch(function (error) {
+    // handle error
+    alert(error.message)
+  });
+}
+
+
+
+/*
+// Make a request for a user with a given ID
+axios.get('https://reqres.in/api/users/2')
+  .then(function (response) {
+    // handle success
+ //   document.querySelector('#resp').append(data.data.email);
+    console.log(response);
+  })
+  .catch(function (error) {
+    // handle error
+    console.log(error);
+  })
+  .then(function () {
+    // always executed
+  });
 
 */
+

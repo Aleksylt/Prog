@@ -4,7 +4,7 @@ from app.config import MKTIK_IP, MKTIK_PASS, MKTIK_USER
 from routeros_api.exceptions import RouterOsApiConnectionError
 
 
-def get_mk_address_list() -> Message:
+def get_mk_address_list(filter_list: str = "") -> Message:
     connection = routeros_api.RouterOsApiPool(MKTIK_IP, username=MKTIK_USER, password=MKTIK_PASS,
                                               port=8728, plaintext_login=True)
     try:
@@ -32,8 +32,13 @@ def get_mk_address_list() -> Message:
         return resp
     result = Message(
         code=200,
-        message=list(list_address.get())
+        message=[]
     )
+    if filter_list == "":
+        result.message=list(list_address.get())
+    else:
+        result.message=list(list_address.get(list=filter_list))
+
     connection.disconnect()
     return result
 

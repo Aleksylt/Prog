@@ -12,8 +12,8 @@ async def health_check():
 
 @router.get("/addr_lst", response_model=Message,
             responses={400:{"model":Message}})
-async def get_addr_lst():
-    resp = get_mk_address_list()
+async def get_addr_lst(filter_list: str = ""):
+    resp = get_mk_address_list(filter_list)
     if resp.code == 400:
         raise HTTPException(status.HTTP_400_BAD_REQUEST, detail=resp.message)
     return resp
