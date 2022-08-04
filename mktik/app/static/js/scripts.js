@@ -20,7 +20,7 @@ function onDataReceive(array){
 
     array.forEach(element => {
         const li =document.createElement('li');
-        li.innerHTML = "id: " + element.id + ", IP adress: " + element.address + ", comment:"+ element.comment;
+        li.innerHTML = "id: " + element.id + ", IP address: " + element.address + ", comment:"+ element.comment;
         result.appendChild(li);
 
     });

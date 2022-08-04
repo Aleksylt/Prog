@@ -1,13 +1,15 @@
-from fastapi import APIRouter, HTTPException, status
+from fastapi import APIRouter, HTTPException, status, Request
 from app.utils.mktik import * #get_mk_address_list, add_mk_ip_to_address_list, del_mk_address_list_by_ip
 from app.schemas.mk_schemas import PostResponse, AddrList, Message
+from fastapi.templating import Jinja2Templates
 
 router = APIRouter()
-
+templates = Jinja2Templates(directory="templates")
 
 @router.get("/")
-async def health_check():
-    return {"Hello": "World"}
+async def health_check(request: Request):
+    return templates.TemplateResponse("index.html", {"request":request})
+    # return {"Hello": "World"}
 
 
 @router.get("/addr_lst", response_model=Message,
