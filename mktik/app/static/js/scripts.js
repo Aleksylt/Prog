@@ -23,10 +23,11 @@ function onDataReceive(array){
         const li =document.createElement('li');
         getDhcpLeases(element.address).then(res => {
         dhcp_lease_resp = res[0]['host-name'];
-        console.log(dhcp_lease_resp);
-         li.innerHTML = "id: " + element.id + ", IP addr: " + element.address + ", host: " + dhcp_lease_resp + ", comment:"+ element.comment;
+        li.innerHTML = "id: " + element.id + ", IP addr: " + element.address + ", host: " + dhcp_lease_resp + ", comment:"+ element.comment;
         result.appendChild(li);
-        })
+        }).catch( err => {
+         li.innerHTML = "id: " + element.id + ", IP addr: " + element.address + ", host: " + err + ", comment:"+ element.comment;
+         });
 
 
 
