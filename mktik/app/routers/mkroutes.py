@@ -1,5 +1,5 @@
 from fastapi import APIRouter, HTTPException, status, Request
-from app.utils.mktik import * #get_mk_address_list, add_mk_ip_to_address_list, del_mk_address_list_by_ip
+from app.utils.mktik import * # get_mk_address_list, add_mk_ip_to_address_list, del_mk_address_list_by_ip
 from app.schemas.mk_schemas import PostResponse, AddrList, Message
 from fastapi.templating import Jinja2Templates
 
@@ -19,6 +19,18 @@ async def get_addr_lst(filter_list: str = ""):
     if resp.code == 400:
         raise HTTPException(status.HTTP_400_BAD_REQUEST, detail=resp.message)
     return resp
+
+
+@router.get("/dhcp_leases", response_model=Message,
+            responses={400:{"model":Message}})
+async def get_dhcp_leases(filter_address: str = ""):
+    resp = get_mk_dhcp_leases(filter_address)
+    if resp.code == 400:
+        raise HTTPException(status.HTTP_400_BAD_REQUEST, detail=resp.message)
+    return resp
+
+
+##########################################################################################################
 
 
 @router.post("/addr_lst", response_model=PostResponse, status_code=status.HTTP_201_CREATED,

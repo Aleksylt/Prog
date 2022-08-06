@@ -10,6 +10,7 @@ promise.then(onDataReceive)
 
 function onDataReceive(array){
     const result = document.querySelector('#resp');
+    let dhcp_lease_resp = 0;
     result.innerHTML = "";
     array.forEach(element => {
         const li =document.createElement('li');
@@ -20,21 +21,20 @@ function onDataReceive(array){
 
     array.forEach(element => {
         const li =document.createElement('li');
-        li.innerHTML = "id: " + element.id + ", IP address: " + element.address + ", comment:"+ element.comment;
+        getDhcpLeases(element.address).then(res => {
+        dhcp_lease_resp = res[0]['host-name'];
+        console.log(dhcp_lease_resp);
+        return dhcp_lease_resp;
+        })
+
+        li.innerHTML = "id: " + element.id + ", IP addr: " + element.address + ", host:" + dhcp_lease_resp + ", comment:"+ element.comment;
         result.appendChild(li);
 
     });
 
-
-// для одного элемента
-/*  const li =document.createElement('li');
-        li.innerHTML = array.data.email
-        document.querySelector('#resp').appendChild(li)
- */
 }
 
 function getRemoteData(){
-//const promise = axios.get('https://reqres.in/api/users?page=2');
 const promise = axios.get('http://127.0.0.1:8000/addr_lst');
 
 return promise.then((response) => {
@@ -45,6 +45,19 @@ return promise.then((response) => {
     alert(error.message)
   });
 }
+
+function getDhcpLeases(filter_address){
+  const promise = axios.get(`http://127.0.0.1:8000/dhcp_leases?filter_address=${filter_address}`);
+  
+  return promise.then((response) => {
+      return response.data.message;
+  })
+   .catch(function (error) {
+      // handle error
+      alert(error.message)
+    });
+  }
+  
 
 
 

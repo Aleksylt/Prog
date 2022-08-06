@@ -43,6 +43,45 @@ def get_mk_address_list(filter_list: str = "") -> Message:
     return result
 
 
+def get_mk_dhcp_leases(filter_address: str = "") -> Message:
+    connection = routeros_api.RouterOsApiPool(MKTIK_IP, username=MKTIK_USER, password=MKTIK_PASS,
+                                              port=8728, plaintext_login=True)
+    try:
+        api = connection.get_api()
+    except TypeError:
+        resp = Message(
+            code=400,
+            message=["error connection to mikrotik"]
+        )
+        return resp
+    except RouterOsApiConnectionError as err:
+        resp = Message(
+            code=400,
+            message=["error : " + str(err)]
+        )
+        return resp
+
+    try:
+        dhcp_leases = api.get_resource('/ip/dhcp-server/lease/')
+    except TypeError:
+        resp = Message(
+            code=400,
+            message=["error get leases"]
+        )
+        return resp
+    result = Message(
+        code=200,
+        message=[]
+    )
+    if filter_address == "":
+        result.message=list(dhcp_leases.get())
+    else:
+        result.message=list(dhcp_leases.get(address=filter_address))
+
+    connection.disconnect()
+    return result
+
+
 def del_mk_address_list_by_ip():
     connection = routeros_api.RouterOsApiPool(MKTIK_IP, username=MKTIK_USER, password=MKTIK_PASS,
                                               port=8728, plaintext_login=True)
