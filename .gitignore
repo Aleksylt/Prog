@@ -4,3 +4,10 @@
 /__pycache__/
 *.xml
 *.iml
+mktik/app/__pycache__/__init__.cpython-310.pyc
+mktik/app/__pycache__/config.cpython-310.pyc
+mktik/app/routers/__pycache__/__init__.cpython-310.pyc
+mktik/app/routers/__pycache__/mkroutes.cpython-310.pyc
+mktik/app/schemas/__pycache__/mk_schemas.cpython-310.pyc
+mktik/app/utils/__pycache__/__init__.cpython-310.pyc
+mktik/app/utils/__pycache__/mktik.cpython-310.pyc

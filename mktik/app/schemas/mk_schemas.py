@@ -12,4 +12,5 @@ class AddrList(BaseModel):
 
 
 class Message(BaseModel):
-    message: str
+    code: int
+    message: list
